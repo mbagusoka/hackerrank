@@ -1,0 +1,19 @@
+
+V
+squid:S106v"9Replace this use of System.out or System.err by a logger.(›ä¦8§÷ÛÀ§-
+Ksquid:S1481‡",Remove this unused "integer" local variable.(™»®ª8§÷ÛÀ§-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(òæ È8§÷ÛÀ§-
+[
+squid:S106u"9Replace this use of System.out or System.err by a logger.(×²Âùÿÿÿÿ8§÷ÛÀ§-
+Gsquid:S1172Ş"(Remove this unused method parameter "n".(ñö¾«8§÷ÛÀ§-
+ğsquid:S1598"ÌThis file "HackerrankApril.java" should be located in "com\test\kata\hackerrank" directory, not in "D:\Personal-Workspace\ka-ta\src\main\java\com.test.kata\hackerrank"(Do not use dots in directory names).( ı¯©úÿÿÿÿ8º¾ëüª-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸“Ç™8‡ğæüª-
+Isquid:S00108‡")Either remove or fill this block of code.(™»®ª8§÷ÛÀ§-
+W
+squid:S106±"9Replace this use of System.out or System.err by a logger.(¡ë©ì8§÷ÛÀ§-
+W
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(ÁØí«8§÷ÛÀ§-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(•Ç¨úùÿÿÿÿ8§÷ÛÀ§-
