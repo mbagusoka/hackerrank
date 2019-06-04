@@ -1,9 +1,9 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-T
-$src/main/java/com.test.kata/App.java,7\a\7a88b03c59f608ed671842acd92a36d40fd335cc
 i
-9src/main/java/com.test.kata/hackerrank/HackerrankMay.java,9\c\9c569ed2ae64ce99aa999109a18c81f9b4d9381b
-k
-;src/main/java/com.test.kata/hackerrank/HackerrankApril.java,6\2\626c8697b3737f663c0075f90df0127877a42788
+9src/main/java/com/test/kata/hackerrank/HackerrankMay.java,0\2\02099cc72b76087556514d726fb2fea81247c27a
+T
+$src/main/java/com/test/kata/App.java,8\a\8ad9ddfb40be3604c7277806ce39e76723b3f57c
+j
+:src/main/java/com/test/kata/hackerrank/HackerrankJune.java,5\1\511ff1c4feefac54aa7ee40832fba3147228a54a

@@ -1,0 +1,6 @@
+
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡8š…²-
+^squid:S18549";Remove this useless assignment to local variable "strings".(šáıˆùÿÿÿÿ8£°Ç…²-
+Osquid:S14819",Remove this unused "strings" local variable.(šáıˆùÿÿÿÿ8£°Ç…²-
+Dsquid:S1481:"&Remove this unused "c" local variable.(´Øè8­ßÈ…²-
+Hsquid:S00108:")Either remove or fill this block of code.(´Øè8­ßÈ…²-

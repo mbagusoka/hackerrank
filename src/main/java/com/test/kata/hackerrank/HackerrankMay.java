@@ -282,29 +282,4 @@ public final class HackerrankMay {
         }
         return Collections.max(stationDistances);
     }
-
-    public static int fairRations(int[] B) {
-        int result = 0;
-        int count = 0;
-        for (int n : B) {
-            result += n;
-        }
-        if (result % 2 == 0) {
-            for (int i = 0; i < B.length; i++) {
-                if (i == B.length - 1 && B[i] % 2 != 0) {
-                    B[i] += 1;
-                    B[i - 1] += 1;
-                    count += 2;
-                }
-                if (B[i] % 2 != 0) {
-                    B[i] += 1;
-                    B[i + 1] += 1;
-                    count += 2;
-                }
-            }
-            return count;
-        } else {
-            return 0;
-        }
-    }
 }
