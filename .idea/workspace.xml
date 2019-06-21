@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/626c8697b3737f663c0075f90df0127877a42788" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a88b03c59f608ed671842acd92a36d40fd335cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c569ed2ae64ce99aa999109a18c81f9b4d9381b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.test.kata/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.test.kata/hackerrank/HackerrankApril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.test.kata/hackerrank/HackerrankMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,12 +28,21 @@
     <option name="myElementSize" value="175" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="107" selection-start-line="7" selection-start-column="107" selection-end-line="7" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="63" column="46" lean-forward="true" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+            <state relative-caret-position="225">
+              <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,13 +51,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            <state relative-caret-position="4112">
+              <caret line="263" column="5" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
               <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +103,7 @@
       <find>elec</find>
       <find>b</find>
       <find>static</find>
+      <find>count</find>
     </findStrings>
     <replaceStrings>
       <replace>AprilEight</replace>
@@ -114,6 +121,7 @@
       <replace>bL</replace>
       <replace>i</replace>
       <replace>B</replace>
+      <replace>flag</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -155,6 +163,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com.test.kata/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.test.kata/hackerrank/HackerrankMay.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.test.kata/hackerrank/HackerrankJune.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/Form.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/Task.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" />
       </list>
@@ -167,7 +177,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="9" />
     <option name="y" value="18" />
     <option name="width" value="1347" />
@@ -181,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,13 +239,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559622252037" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560786859136" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -471,7 +481,14 @@
       <workItem from="1559190984648" duration="3572000" />
       <workItem from="1559223868639" duration="715000" />
       <workItem from="1559525709610" duration="3993000" />
-      <workItem from="1559623772418" duration="1455000" />
+      <workItem from="1559623772418" duration="6533000" />
+      <workItem from="1559870660245" duration="11528000" />
+      <workItem from="1560268598345" duration="9892000" />
+      <workItem from="1560391389611" duration="2579000" />
+      <workItem from="1560786239495" duration="643000" />
+      <workItem from="1560786893752" duration="533000" />
+      <workItem from="1560846358556" duration="5123000" />
+      <workItem from="1561086064820" duration="4651000" />
     </task>
     <servers />
   </component>
@@ -508,7 +525,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269064000" />
+    <option name="totallyTimeSpent" value="309091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,10 +537,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18785425" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23481782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -556,7 +573,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32955465" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18461539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23481782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -565,8 +582,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.27529022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33665007" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.27529022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33001658" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
@@ -715,17 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="1752" column="15" selection-start-line="1752" selection-start-column="15" selection-end-line="1752" selection-end-column="15" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/test/FrontOfficeUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -737,9 +743,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/Form.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/Task.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="635" column="9" lean-forward="true" selection-start-line="635" selection-start-column="9" selection-end-line="635" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="4112">
+          <caret line="263" column="5" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -749,18 +785,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
+          <caret line="7" column="107" selection-start-line="7" selection-start-column="107" selection-end-line="7" selection-end-column="107" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="63" column="46" lean-forward="true" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+        <state relative-caret-position="225">
+          <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
