@@ -187,6 +187,12 @@ public final class HackerrankJune {
         return alphabets.size() < 26 ? "not pangram" : "pangram";
     }
 
+    /**
+     * Still too long to execute. Not optimized yet.
+     * @param s
+     * @param queries
+     * @return
+     */
     public static String[] weightedUniformStrings(String s, int[] queries) {
         String alphabets = "abcdefghijklmnopqrstuvwxyz";
         int[] values = {1, 2, 3 , 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26};
@@ -203,5 +209,35 @@ public final class HackerrankJune {
             answers[i] = sums.contains(queries[i]) ? "Yes" : "No";
         }
         return answers;
+    }
+
+    public static int introTutorial(int V, int[] arr) {
+        int index = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == V) {
+                index = i;
+                break;
+            }
+        }
+        return index;
+    }
+
+    public static String appendAndDelete(String s, String t, int k) {
+        int indexLast = 0;
+        for (int i = 0; i < Math.min(s.length() - 1, t.length() - 1); i++) {
+            if (s.charAt(i) != t.charAt(i)) {
+                indexLast = i;
+                break;
+            }
+        }
+        int count;
+        if (indexLast == 0 && s.length() != t.length()) {
+            count = Math.abs(s.length() - t.length());
+        } else if (indexLast == 0) {
+            count = t.length() * 2;
+        } else {
+            count = (t.length() - indexLast) * 2;
+        }
+        return s.equals(t) || count == k || count <= k && count % 2 == 0 || count <= k && count % 2 != 0 && k % 2 != 0 ? "Yes" : "No";
     }
 }
