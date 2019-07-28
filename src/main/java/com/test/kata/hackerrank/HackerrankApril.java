@@ -3,6 +3,7 @@ package com.test.kata.hackerrank;
 import java.math.BigInteger;
 import java.util.*;
 
+@SuppressWarnings("squid:S106")
 public final class HackerrankApril {
 
     private HackerrankApril() {

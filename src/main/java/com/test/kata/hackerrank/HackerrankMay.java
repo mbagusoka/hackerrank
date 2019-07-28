@@ -1,11 +1,9 @@
 package com.test.kata.hackerrank;
 
 import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
+@SuppressWarnings("squid:S106")
 public final class HackerrankMay {
 
     private HackerrankMay() {
@@ -32,7 +30,7 @@ public final class HackerrankMay {
         char[] chars = String.valueOf(b).toCharArray();
         int result = -1;
         for (int i = 0; i < chars.length - 1; i++) {
-            if (new StringBuilder().append(chars[i]).append(chars[i + 1]).toString().equals(aString)) {
+            if (String.valueOf(chars[i]).concat(String.valueOf(chars[i + 1])).equals(aString)) {
                 result = i;
                 break;
             }

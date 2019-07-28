@@ -5,11 +5,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankApril.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankApril.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,44 +25,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hackerrank$BukaLapakTest.ic" NAME="BukaLapakTest Coverage Results" MODIFIED="1561888403543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.kata.test.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/ka_ta$App.ic" NAME="App Coverage Results" MODIFIED="1557206560335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.test.kata.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="175" />
+    <option name="myElementSize" value="164" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="194" column="7" lean-forward="true" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4112">
-              <caret line="263" column="5" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -74,8 +58,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>AprilNine</find>
-      <find>AprilTen</find>
       <find>AprilEleven</find>
       <find>AprilTwelve</find>
       <find>min</find>
@@ -101,9 +83,11 @@
       <find>getmon</find>
       <find>elec</find>
       <find>b</find>
-      <find>static</find>
       <find>count</find>
       <find>queries</find>
+      <find>y</find>
+      <find>BukaLapak</find>
+      <find>static</find>
     </findStrings>
     <replaceStrings>
       <replace>AprilEight</replace>
@@ -122,6 +106,7 @@
       <replace>i</replace>
       <replace>B</replace>
       <replace>flag</replace>
+      <replace>Codility</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -165,8 +150,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com.test.kata/hackerrank/HackerrankJune.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/Form.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/Task.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/PermutationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/learn/FibonacciTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/test/BukaLapakTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/test/BukaLapak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/test/Codility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/test/Pegipegi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/kata/test/PegipegiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" />
       </list>
     </option>
   </component>
@@ -190,12 +187,118 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kata" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561273807190" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562771070446" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,6 +309,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.test.kata.learn" />
       <recent name="com.test.kata" />
       <recent name="com" />
       <recent name="com.test.kata.krisna" />
@@ -225,13 +329,11 @@
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.krisna.*" />
+          <option name="PATTERN" value="com.test.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,64 +341,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerrankAprilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank-musang" />
+    <configuration name="BukaLapakTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.krisna.*" />
+          <option name="PATTERN" value="com.test.kata.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.HackerrankAprilTest" />
+      <option name="PACKAGE_NAME" value="com.test.kata.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerrankAprilTest.testDiagonalDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank-musang" />
+    <configuration name="BukaLapakTest.testSmallestIntegerThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.krisna.*" />
+          <option name="PATTERN" value="com.test.kata.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.HackerrankAprilTest" />
-      <option name="METHOD_NAME" value="testDiagonalDiff" />
+      <option name="PACKAGE_NAME" value="com.test.kata.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="METHOD_NAME" value="testSmallestIntegerThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest.testFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank-musang" />
+    <configuration name="BukaLapakTest.testStringCodilitySeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.krisna.*" />
+          <option name="PATTERN" value="com.test.kata.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.KataTest" />
-      <option name="METHOD_NAME" value="testFactorial" />
+      <option name="PACKAGE_NAME" value="com.test.kata.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="METHOD_NAME" value="testStringCodilitySeven" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTest.testSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank-musang" />
+    <configuration name="BukaLapakTest.testStringCodilityThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.krisna.*" />
+          <option name="PATTERN" value="com.test.kata.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.KataTest" />
-      <option name="METHOD_NAME" value="testSquare" />
+      <option name="PACKAGE_NAME" value="com.test.kata.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="METHOD_NAME" value="testStringCodilityThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -352,10 +454,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.HackerrankAprilTest.testDiagonalDiff" />
-        <item itemvalue="JUnit.HackerrankAprilTest" />
-        <item itemvalue="JUnit.KataTest.testSquare" />
-        <item itemvalue="JUnit.KataTest.testFactorial" />
+        <item itemvalue="JUnit.BukaLapakTest" />
+        <item itemvalue="JUnit.BukaLapakTest.testStringCodilitySeven" />
+        <item itemvalue="JUnit.BukaLapakTest.testStringCodilityThree" />
+        <item itemvalue="JUnit.BukaLapakTest.testSmallestIntegerThree" />
       </list>
     </recent_temporary>
   </component>
@@ -443,43 +545,65 @@
       <workItem from="1561204683855" duration="45000" />
       <workItem from="1561205525237" duration="13888000" />
       <workItem from="1561342880100" duration="839000" />
+      <workItem from="1561605564486" duration="4903000" />
+      <workItem from="1561706323570" duration="2244000" />
+      <workItem from="1561784022469" duration="3656000" />
+      <workItem from="1561791121438" duration="11518000" />
+      <workItem from="1561862019147" duration="22179000" />
+      <workItem from="1561889502166" duration="1403000" />
+      <workItem from="1561947647154" duration="923000" />
+      <workItem from="1561972158022" duration="2844000" />
+      <workItem from="1561979396443" duration="49000" />
+      <workItem from="1561980299260" duration="1007000" />
+      <workItem from="1562034099844" duration="3310000" />
+      <workItem from="1562211705187" duration="2143000" />
+      <workItem from="1562320420428" duration="1945000" />
+      <workItem from="1562674952515" duration="180000" />
+      <workItem from="1562725099029" duration="2782000" />
+      <workItem from="1562765024693" duration="5277000" />
+      <workItem from="1562811735990" duration="1195000" />
+      <workItem from="1562898681807" duration="1311000" />
+      <workItem from="1563174942415" duration="27000" />
+      <workItem from="1563437419354" duration="814000" />
+      <workItem from="1563510414499" duration="753000" />
+      <workItem from="1563768854644" duration="1700000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.14 at 13h 14m 38s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 16h 56m 42s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.14 at 13h 15m 11s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest_testStringCodilityThree - 2019.07.01 at 16h 58m 48s.xml">
+      <configuration name="BukaLapakTest.testStringCodilityThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.14 at 13h 16m 20s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 16h 59m 36s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.14 at 13h 16m 28s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest_testStringCodilitySeven - 2019.07.01 at 17h 00m 27s.xml">
+      <configuration name="BukaLapakTest.testStringCodilitySeven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 25m 04s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest_testStringCodilitySeven - 2019.07.01 at 17h 01m 58s.xml">
+      <configuration name="BukaLapakTest.testStringCodilitySeven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 26m 40s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 17h 02m 08s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 26m 53s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 17h 05m 40s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 29m 22s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 17h 06m 31s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 30m 55s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 17h 06m 42s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HackerrankTest_testDiagonalDiff - 2019.04.15 at 09h 46m 57s.xml">
-      <configuration name="HackerrankTest.testDiagonalDiff" configurationId="JUnit" />
+    <history-entry file="BukaLapakTest - 2019.07.01 at 18h 29m 27s.xml">
+      <configuration name="BukaLapakTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324534000" />
+    <option name="totallyTimeSpent" value="396697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,7 +618,7 @@
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23481782" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18380567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -504,13 +628,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.27529022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33001658" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2819237" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.3283582" />
+      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.18905473" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.27529022" />
@@ -527,7 +651,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32955465" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23481782" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24696356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -537,13 +661,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.27529022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33001658" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2819237" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.3283582" />
+      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.18905473" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.27529022" />
@@ -573,21 +697,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/dummy/A.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/dummy/B.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilNine.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilSeven.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/X.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilFifteen.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilFourteen.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilSixteen.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilTen.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilTwenty.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/day/AprilTwelve.java" />
@@ -653,19 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -687,16 +783,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.test.kata/test/FrontOfficeUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/Form.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/Task.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/CharSequence.java">
@@ -740,17 +826,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="88">
+          <caret line="2598" column="26" selection-start-line="2598" selection-start-column="26" selection-end-line="2598" selection-end-column="26" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/learn/FibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/learn/PermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-688">
+          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+          <folding>
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar!/org/junit/internal/runners/JUnit38ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/test/BukaLapakTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4112">
-          <caret line="263" column="5" selection-start-line="263" selection-start-column="5" selection-end-line="263" selection-end-column="5" />
+        <state relative-caret-position="512">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/test/Pegipegi.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/kata/test/PegipegiTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -759,11 +958,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="194" column="7" lean-forward="true" selection-start-line="194" selection-start-column="7" selection-end-line="194" selection-end-column="7" />
+        <state relative-caret-position="64">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/test/Codility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/test/BukaLapak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>

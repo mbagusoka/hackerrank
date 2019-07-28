@@ -4,6 +4,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+@SuppressWarnings("squid:S106")
 public final class HackerrankJune {
 
     private HackerrankJune() {
@@ -187,12 +188,6 @@ public final class HackerrankJune {
         return alphabets.size() < 26 ? "not pangram" : "pangram";
     }
 
-    /**
-     * Still too long to execute. Not optimized yet.
-     * @param s
-     * @param queries
-     * @return
-     */
     public static String[] weightedUniformStrings(String s, int[] queries) {
         String alphabets = "abcdefghijklmnopqrstuvwxyz";
         int[] values = {1, 2, 3 , 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 26};
@@ -240,4 +235,55 @@ public final class HackerrankJune {
         }
         return s.equals(t) || count == k || count <= k && count % 2 == 0 || count <= k && count % 2 != 0 && k % 2 != 0 ? "Yes" : "No";
     }
+
+    public static int[] climbingLeaderboard(int[] scores, int[] alice) {
+        int[] ranks = new int[alice.length];
+        Set<Integer> scoreSet = new LinkedHashSet<>();
+        for (int n : scores) {
+            scoreSet.add(n);
+        }
+        List<Integer> scoreList = new ArrayList<>(scoreSet);
+        Collections.sort(scoreList);
+        int index = 0;
+        for (int i = 0; i < alice.length; i++) {
+            if (alice[i] < scoreList.get(0)) {
+                ranks[i] = scoreList.size() + 1;
+            } else {
+                for (int j = index; j < scoreList.size(); j++) {
+                    if (alice[i] < scoreList.get(j)) {
+                        ranks[i] = scoreList.size() - index + 1;
+                        break;
+                    }
+                    index++;
+                }
+                if (ranks[i] == 0) {
+                    ranks[i] = 1;
+                }
+            }
+        }
+        return ranks;
+    }
+
+    public static int queensAttack(int n, int k, int r_q, int c_q, int[][] obstacles) {
+
+        return -1;
+    }
+
+    public static int[] sortNumber(int[] numbers) {
+        int i = 1;
+        int temp;
+        while (i < numbers.length) {
+            if (numbers[i - 1] <= numbers[i]) {
+                i++;
+            } else {
+                temp = numbers[i - 1];
+                numbers[i - 1] = numbers[i];
+                numbers[i] = temp;
+                i = 1;
+            }
+        }
+        return numbers;
+    }
+
+
 }

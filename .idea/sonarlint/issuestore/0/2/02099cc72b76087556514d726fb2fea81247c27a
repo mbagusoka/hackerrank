@@ -1,9 +1,3 @@
 
-W
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(ìÆè8ÆÔè®-
-W
-squid:S106º"9Replace this use of System.out or System.err by a logger.(…‹Ø8ÆÔè®-
-Lsquid:S1172ê"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ8ÆÔè®-
-[
-squid:S106P"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÆÔè®-
-Gsquid:S1172÷"(Remove this unused method parameter "n".(³Ù¼ÿ8ÆÔè®-
+Gsquid:S1172õ"(Remove this unused method parameter "n".(³Ù¼ÿ8ÆÔè®-
+Lsquid:S1172è"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ8ÆÔè®-
