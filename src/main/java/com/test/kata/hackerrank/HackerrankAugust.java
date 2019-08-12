@@ -59,4 +59,15 @@ public final class HackerrankAugust {
         }
         return new String(arr);
     }
+
+    public static int theLoveLetterMystery(String s) {
+        int changes = 0;
+        char[] arr = s.toCharArray();
+        for (int i = 0, j = s.length() - 1; i < s.length() / 2; i++, j--) {
+            if (arr[i] != arr[j]) {
+                changes += Math.abs(arr[i] - arr[j]);
+            }
+        }
+        return changes;
+    }
 }

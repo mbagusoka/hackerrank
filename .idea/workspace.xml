@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="59" column="31" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="59" selection-end-column="31" />
+            <state relative-caret-position="-154">
+              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -166,8 +166,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/test/kata/test/PegipegiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/kata/learn/PermutationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJuly.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" />
       </list>
     </option>
   </component>
@@ -178,7 +178,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="9" />
     <option name="y" value="18" />
     <option name="width" value="1347" />
@@ -269,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565577130925" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565597216386" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -543,7 +543,7 @@
       <workItem from="1565067159847" duration="366000" />
       <workItem from="1565163632879" duration="174000" />
       <workItem from="1565576569578" duration="565000" />
-      <workItem from="1565579278879" duration="2566000" />
+      <workItem from="1565579278879" duration="8194000" />
     </task>
     <servers />
   </component>
@@ -580,7 +580,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="406920000" />
+    <option name="totallyTimeSpent" value="412548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -604,14 +604,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3283582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49878544" visible="true" weight="0.27529022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49878544" weight="0.27529022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2819237" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="SonarLint" order="9" weight="0.18905473" />
+      <window_info active="true" anchor="bottom" id="SonarLint" order="9" visible="true" weight="0.18905473" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50121456" side_tool="true" weight="0.27529022" />
@@ -964,14 +964,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="59" column="31" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="59" selection-end-column="31" />
+        <state relative-caret-position="-154">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>
     </entry>
