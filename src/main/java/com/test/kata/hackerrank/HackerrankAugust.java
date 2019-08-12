@@ -38,4 +38,25 @@ public final class HackerrankAugust {
         }
         return change;
     }
+
+    public static String caesarCipher(String s, int k) {
+        int swap = k % 26;
+        String alphabets = "abcdefghijklmnopqrstuvwxyz";
+        String lowerCaseCiphered = alphabets.substring(swap).concat(alphabets.substring(0, swap));
+        String upperCaseCiphered = lowerCaseCiphered.toUpperCase();
+        char[] arr = s.toCharArray();
+        int index;
+        String alphabet;
+        for (int i = 0; i < arr.length; i++) {
+            alphabet = String.valueOf(arr[i]);
+            if (alphabets.contains(alphabet)) {
+                index = alphabets.indexOf(alphabet);
+                arr[i] = lowerCaseCiphered.toCharArray()[index];
+            } else if (alphabets.contains(alphabet.toLowerCase())) {
+                index = alphabets.indexOf(alphabet.toLowerCase());
+                arr[i] = upperCaseCiphered.toCharArray()[index];
+            }
+        }
+        return new String(arr);
+    }
 }
