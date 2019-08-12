@@ -1,6 +1,5 @@
 package com.test.kata.learn;
 
-import com.test.kata.learn.Recursive;
 import junit.framework.TestCase;
 
 import java.util.Arrays;

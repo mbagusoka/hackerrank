@@ -25,3 +25,5 @@ b
 .src/main/java/com/test/kata/test/Codility.java,3\6\36a73d8e656adc000526d99dd89eb644db509d34
 k
 ;src/main/java/com/test/kata/hackerrank/HackerrankApril.java,6\7\67383555df5d1865dc387684672bbc12b1450352
+l
+<src/main/java/com/test/kata/hackerrank/HackerrankAugust.java,5\7\579a8ef314d0d1ac453b5926894d2fa5dfa0f325
