@@ -1,7 +1,5 @@
 package com.test.kata.hackerrank;
 
-import java.util.*;
-
 public final class HackerrankAugust {
 
     private HackerrankAugust() {
