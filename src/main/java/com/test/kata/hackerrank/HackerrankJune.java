@@ -7,9 +7,7 @@ import java.util.regex.Pattern;
 @SuppressWarnings("squid:S106")
 public final class HackerrankJune {
 
-    private HackerrankJune() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankJune() {}
 
     public static int fairRations(int[] B) {
         int result = 0;

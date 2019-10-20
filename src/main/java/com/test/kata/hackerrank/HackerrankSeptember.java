@@ -5,9 +5,7 @@ import java.util.stream.Collectors;
 
 public final class HackerrankSeptember {
 
-    private HackerrankSeptember() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankSeptember() {}
 
     public static String gameOfThrones(String s) {
         List<Character> characterList = s.chars().mapToObj(c -> (char) c).collect(Collectors.toList());
@@ -45,7 +43,11 @@ public final class HackerrankSeptember {
     }
 
     public static int alternate(String s) {
-        int minimal = Integer.MAX_VALUE;
-        return minimal;
+        if (s.length() <= 2) {
+            return s.length();
+        } else {
+            int minimal = Integer.MAX_VALUE;
+            return minimal;
+        }
     }
 }

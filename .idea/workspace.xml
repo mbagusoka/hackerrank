@@ -3,25 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67383555df5d1865dc387684672bbc12b1450352" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67383555df5d1865dc387684672bbc12b1450352" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/hackerrank.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankApril.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankAugust.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJuly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Recursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/test/BukaLapak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/test/Codility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/hackerrank.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/hackerrank/SortNumberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/learn/FibonacciTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/learn/PermutationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/test/BukaLapakTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/test/CodilityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJuly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJuly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankSeptember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankSeptember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/test/BukaLapak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/test/CodilityTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/test/BukaLapakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTwoTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +93,7 @@
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
-      <module name="hackerrank" />
+      <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.kata.*" />
@@ -108,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BukaLapakTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
+    <configuration name="CodilityTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.kata.test.*" />
@@ -117,14 +113,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.CodilityTwoTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BukaLapakTest.testSmallestIntegerThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
+    <configuration name="CodilityTwoTest.testSmallestIntegerThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.kata.test.*" />
@@ -132,15 +128,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.CodilityTwoTest" />
       <option name="METHOD_NAME" value="testSmallestIntegerThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BukaLapakTest.testStringCodilitySeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
+    <configuration name="CodilityTwoTest.testStringCodilitySeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.kata.test.*" />
@@ -148,15 +144,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.CodilityTwoTest" />
       <option name="METHOD_NAME" value="testStringCodilitySeven" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BukaLapakTest.testStringCodilityThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
+    <configuration name="CodilityTwoTest.testStringCodilityThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.test.kata.test.*" />
@@ -164,7 +160,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.BukaLapakTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.CodilityTwoTest" />
       <option name="METHOD_NAME" value="testStringCodilityThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -221,10 +217,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.BukaLapakTest" />
-        <item itemvalue="JUnit.BukaLapakTest.testStringCodilitySeven" />
-        <item itemvalue="JUnit.BukaLapakTest.testStringCodilityThree" />
-        <item itemvalue="JUnit.BukaLapakTest.testSmallestIntegerThree" />
+        <item itemvalue="JUnit.CodilityTwoTest" />
+        <item itemvalue="JUnit.CodilityTwoTest.testStringCodilitySeven" />
+        <item itemvalue="JUnit.CodilityTwoTest.testStringCodilityThree" />
+        <item itemvalue="JUnit.CodilityTwoTest.testSmallestIntegerThree" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +338,19 @@
       <workItem from="1565579278879" duration="8247000" />
       <workItem from="1565680594092" duration="5511000" />
       <workItem from="1565759102441" duration="2905000" />
-      <workItem from="1568001066314" duration="10191000" />
+      <workItem from="1568001066314" duration="11181000" />
+      <workItem from="1568082297010" duration="2659000" />
+      <workItem from="1568601768381" duration="1307000" />
+      <workItem from="1569465657406" duration="1559000" />
+      <workItem from="1570697855515" duration="747000" />
+      <workItem from="1570949848962" duration="2866000" />
+      <workItem from="1571020788860" duration="63000" />
+      <workItem from="1571208224757" duration="1469000" />
+      <workItem from="1571279062416" duration="1013000" />
+      <workItem from="1571424763178" duration="1364000" />
+      <workItem from="1571475645910" duration="2814000" />
+      <workItem from="1571479150550" duration="2178000" />
+      <workItem from="1571578833160" duration="305000" />
     </task>
     <servers />
   </component>
@@ -395,7 +403,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

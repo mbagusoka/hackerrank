@@ -6,9 +6,7 @@ import java.util.*;
 @SuppressWarnings("squid:S106")
 public final class HackerrankMay {
 
-    private HackerrankMay() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankMay() {}
 
     public static int viralAdvertising(int n) {
         int cumulative = 0;

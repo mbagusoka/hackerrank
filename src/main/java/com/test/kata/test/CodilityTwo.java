@@ -3,9 +3,9 @@ package com.test.kata.test;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public final class BukaLapak {
+public final class CodilityTwo {
 
-    private BukaLapak() {
+    private CodilityTwo() {
         throw new IllegalAccessError("Util Class");
     }
 

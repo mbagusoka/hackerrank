@@ -2,9 +2,7 @@ package com.test.kata.hackerrank;
 
 public final class HackerrankAugust {
 
-    private HackerrankAugust() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankAugust() {}
 
     public static int gemstones(String[] arr) {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";

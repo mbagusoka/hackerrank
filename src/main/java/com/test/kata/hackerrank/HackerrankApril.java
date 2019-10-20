@@ -6,9 +6,7 @@ import java.util.*;
 @SuppressWarnings("squid:S106")
 public final class HackerrankApril {
 
-    private HackerrankApril() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankApril() {}
 
     private static void permutation(String prefix, String s) {
         int n = s.length();

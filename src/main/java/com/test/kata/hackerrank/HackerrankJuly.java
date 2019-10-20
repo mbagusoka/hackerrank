@@ -2,9 +2,7 @@ package com.test.kata.hackerrank;
 
 public final class HackerrankJuly {
 
-    private HackerrankJuly() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private HackerrankJuly() {}
 
     public static int alternatingCharacters(String s) {
         int deletion = 0;
