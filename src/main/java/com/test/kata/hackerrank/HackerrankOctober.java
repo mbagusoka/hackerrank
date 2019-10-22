@@ -1,5 +1,9 @@
 package com.test.kata.hackerrank;
 
+import java.util.Arrays;
+import java.util.Set;
+import java.util.stream.Collectors;
+
 public final class HackerrankOctober {
 
     private HackerrankOctober() {}
@@ -22,5 +26,20 @@ public final class HackerrankOctober {
             }
         }
         return result;
+    }
+
+    public static int beautifulTriplets(int d, int[] arr) {
+        int triplets = 0;
+        Set<Integer> integerSet = Arrays.stream(arr).boxed().collect(Collectors.toSet());
+        int temp1;
+        int temp2;
+        for (int value : arr) {
+            temp1 = value + d;
+            temp2 = temp1 + d;
+            if (integerSet.containsAll(Arrays.asList(temp1, temp2))) {
+                triplets++;
+            }
+        }
+        return triplets;
     }
 }

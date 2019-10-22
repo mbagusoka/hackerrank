@@ -15,14 +15,10 @@ d
 4src/test/java/com/test/kata/learn/FibonacciTest.java,a\7\a7ea155f2494b3f81602c552e5bb01d84195b88c
 f
 6src/test/java/com/test/kata/learn/PermutationTest.java,a\c\ac3685375c6a39a1667a70f204586d0d4a43c21b
-c
-3src/test/java/com/test/kata/test/BukaLapakTest.java,d\6\d6dbcadc0c1bcfdffb9fff4697abf091bcbe4414
-_
-/src/main/java/com/test/kata/test/BukaLapak.java,0\c\0cbdf19bb3941e8fabbe9130eea190e7c80c448c
 b
-2src/test/java/com/test/kata/test/CodilityTest.java,7\5\7534273e904c206f3ef1b7fdb1370aa09e1e2ff2
+2src/test/java/com/test/kata/test/CodilityTest.java,7/5/7534273e904c206f3ef1b7fdb1370aa09e1e2ff2
 ^
-.src/main/java/com/test/kata/test/Codility.java,3\6\36a73d8e656adc000526d99dd89eb644db509d34
+.src/main/java/com/test/kata/test/Codility.java,3/6/36a73d8e656adc000526d99dd89eb644db509d34
 k
 ;src/main/java/com/test/kata/hackerrank/HackerrankApril.java,6/7/67383555df5d1865dc387684672bbc12b1450352
 l
@@ -33,3 +29,7 @@ j
 :src/main/java/com/test/kata/hackerrank/HackerrankJuly.java,3/5/35173b1f319ededd970a75e191deae5ee7de648b
 m
 =src/main/java/com/test/kata/hackerrank/HackerrankOctober.java,c/8/c8aea889b93722e1c8d737ae6bedd611f56ecfe2
+a
+1src/main/java/com/test/kata/test/CodilityTwo.java,8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d
+e
+5src/test/java/com/test/kata/test/CodilityTwoTest.java,b/e/be1ca5a7587c3bc86b1f40921dc871939976eb02
