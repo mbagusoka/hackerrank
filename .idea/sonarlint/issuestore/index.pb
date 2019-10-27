@@ -33,3 +33,17 @@ a
 1src/main/java/com/test/kata/test/CodilityTwo.java,8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d
 e
 5src/test/java/com/test/kata/test/CodilityTwoTest.java,b/e/be1ca5a7587c3bc86b1f40921dc871939976eb02
+b
+2src/test/java/com/test/kata/codewars/ASumTest.java,3/a/3a16a7e20978c98cd81417ee53240883db01f72a
+^
+.src/main/java/com/test/kata/codewars/Kata.java,4/b/4bbc98f1389b36742352525e932accbe9abb89e7
+k
+;src/test/java/com/test/kata/codewars/MiddleExampleTest.java,6/e/6e117f067595e9b5b021db98dbb8f7c8f97c5a40
+q
+Asrc/test/java/com/test/kata/codewars/BinaryArrayToNumberTest.java,6/6/664decdec956bfb80314c6038b3e1f3295a9c8b2
+n
+>src/test/java/com/test/kata/codewars/DuplicateEncoderTest.java,b/0/b0880a2fc742da2cdfa332cd95a5c8110f5a77f8
+i
+9src/test/java/com/test/kata/codewars/BitCountingTest.java,e/f/efec66b90d3d52c06a77cc7bb145f5effc4e4fb8
+e
+5src/test/java/com/test/kata/codewars/IsogramTest.java,f/5/f518943702aa5c76f8cc2eb1826b6ce31ef332d6
