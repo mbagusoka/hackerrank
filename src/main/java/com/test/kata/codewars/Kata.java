@@ -1,9 +1,6 @@
 package com.test.kata.codewars;
 
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 class Kata {
@@ -69,5 +66,50 @@ class Kata {
             }
         }
         return true;
+    }
+
+    static String[] inArray(String[] array1, String[] array2) {
+        List<String> stringList = new ArrayList<>();
+        for (String s : array1) {
+            for (String s2 : array2) {
+                if (s2.contains(s)) {
+                    stringList.add(s);
+                    break;
+                }
+            }
+        }
+        Collections.sort(stringList);
+        return stringList.toArray(new String[0]);
+    }
+
+    static int findOutlier(int[] integers) {
+        List<Integer> odds = new ArrayList<>();
+        List<Integer> evens = new ArrayList<>();
+        for (int n : integers) {
+            if (n % 2 == 0) {
+                evens.add(n);
+            } else {
+                odds.add(n);
+            }
+        }
+        return odds.size() > evens.size() ? evens.get(0) : odds.get(0);
+    }
+
+    static int persistence(long n) {
+        if (n <= 9) {
+            return 0;
+        } else {
+            long tempResult;
+            int counter = 0;
+            while (n > 9) {
+                counter++;
+                tempResult = 1;
+                for (char c : String.valueOf(n).toCharArray()) {
+                    tempResult *= Character.getNumericValue(c);
+                }
+                n = tempResult;
+            }
+            return counter;
+        }
     }
 }

@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankOctober.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankOctober.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/test/BukaLapak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/test/BukaLapakTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +81,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsogramTest.fixedTests">
-    <configuration name="BinaryArrayToNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PersistTest.testBasic">
+    <configuration name="OutlierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -97,13 +91,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.BinaryArrayToNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.OutlierTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryArrayToNumberTest.convertBinaryArrayToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +106,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.BinaryArrayToNumberTest" />
-      <option name="METHOD_NAME" value="convertBinaryArrayToInt" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.PersistTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersistTest.testBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.PersistTest" />
+      <option name="METHOD_NAME" value="testBasic" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitCountingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhichAreInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -128,13 +137,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.BitCountingTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.WhichAreInTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateEncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhichAreInTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -143,23 +152,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.DuplicateEncoderTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsogramTest.fixedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.IsogramTest" />
-      <option name="METHOD_NAME" value="fixedTests" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.WhichAreInTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsogramTest.fixedTests" />
-        <item itemvalue="JUnit.BitCountingTest" />
-        <item itemvalue="JUnit.DuplicateEncoderTest" />
-        <item itemvalue="JUnit.BinaryArrayToNumberTest.convertBinaryArrayToInt" />
-        <item itemvalue="JUnit.BinaryArrayToNumberTest" />
+        <item itemvalue="JUnit.PersistTest.testBasic" />
+        <item itemvalue="JUnit.PersistTest" />
+        <item itemvalue="JUnit.OutlierTest" />
+        <item itemvalue="JUnit.WhichAreInTest.test1" />
+        <item itemvalue="JUnit.WhichAreInTest" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +353,7 @@
       <workItem from="1572003258993" duration="1027000" />
       <workItem from="1572070764122" duration="2156000" />
       <workItem from="1572077577892" duration="4203000" />
-      <workItem from="1572169801452" duration="563000" />
+      <workItem from="1572169801452" duration="6974000" />
     </task>
     <servers />
   </component>
@@ -387,6 +381,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
