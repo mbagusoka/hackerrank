@@ -47,3 +47,9 @@ i
 9src/test/java/com/test/kata/codewars/BitCountingTest.java,e/f/efec66b90d3d52c06a77cc7bb145f5effc4e4fb8
 e
 5src/test/java/com/test/kata/codewars/IsogramTest.java,f/5/f518943702aa5c76f8cc2eb1826b6ce31ef332d6
+h
+8src/test/java/com/test/kata/codewars/WhichAreInTest.java,8/a/8ac07011924af95db22178bf2f37ec5540f4cf8f
+e
+5src/test/java/com/test/kata/codewars/OutlierTest.java,2/3/23fe7f7e25b4cf773ddaaa41831af1c387df8db9
+e
+5src/test/java/com/test/kata/codewars/PersistTest.java,c/6/c69ca61dbcde1ebb33764ccb19ac80658c58e79a

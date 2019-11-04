@@ -112,4 +112,17 @@ class Kata {
             return counter;
         }
     }
+
+    static int digPow(int n, int p) {
+        int result = 0;
+        String digit = String.valueOf(n);
+        for (int i = 0; i < digit.length(); i++) {
+            result += Math.pow(Character.getNumericValue(digit.charAt(i)), p++);
+        }
+        if (result >= n && result % n == 0) {
+            return result / n;
+        } else {
+            return -1;
+        }
+    }
 }
