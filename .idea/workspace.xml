@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Recursive.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DigPowTest">
+  <component name="RunManager" selected="JUnit.RecursionTest.testPowerOne">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="ka-ta" />
@@ -112,48 +114,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigPowTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.codewars.*" />
+          <option name="PATTERN" value="com.test.kata.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.DigPowTest" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.PersistTest" />
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RecursionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersistTest.testBasic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursionTest.testPowerFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.codewars.*" />
+          <option name="PATTERN" value="com.test.kata.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.PersistTest" />
-      <option name="METHOD_NAME" value="testBasic" />
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RecursionTest" />
+      <option name="METHOD_NAME" value="testPowerFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionTest.testPowerOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RecursionTest" />
+      <option name="METHOD_NAME" value="testPowerOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DigPowTest" />
+        <item itemvalue="JUnit.RecursionTest.testPowerOne" />
+        <item itemvalue="JUnit.RecursionTest" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.DigPowTest.Test1" />
-        <item itemvalue="JUnit.PersistTest.testBasic" />
-        <item itemvalue="JUnit.PersistTest" />
+        <item itemvalue="JUnit.RecursionTest.testPowerFive" />
+        <item itemvalue="JUnit.DigPowTest" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +360,13 @@
       <workItem from="1572493685409" duration="580000" />
       <workItem from="1572497651885" duration="1726000" />
       <workItem from="1572836953553" duration="3686000" />
+      <workItem from="1574240612004" duration="677000" />
+      <workItem from="1574508561343" duration="382000" />
+      <workItem from="1574601205409" duration="103000" />
+      <workItem from="1574765220841" duration="1285000" />
+      <workItem from="1574834221517" duration="648000" />
+      <workItem from="1574913291255" duration="4749000" />
+      <workItem from="1575090022213" duration="2749000" />
     </task>
     <servers />
   </component>
@@ -393,11 +402,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java</url>
           <line>102</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/App.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java</url>

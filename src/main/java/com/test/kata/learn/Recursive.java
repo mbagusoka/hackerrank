@@ -36,4 +36,19 @@ public final class Recursive {
             return fibonacci(n - 2) + fibonacci(n - 1);
         }
     }
+
+    public static long power(int number, int power) {
+        return power(number, power, false);
+    }
+
+    private static long power(int number, int power, boolean minus) {
+        if (0 > number) {
+            minus = true;
+        }
+        if (0 != power) {
+            return number * power(number, power - 1, minus);
+        } else {
+            return minus ? -1 : 1;
+        }
+    }
 }

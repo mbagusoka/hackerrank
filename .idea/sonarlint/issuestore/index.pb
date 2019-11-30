@@ -53,3 +53,5 @@ e
 5src/test/java/com/test/kata/codewars/OutlierTest.java,2/3/23fe7f7e25b4cf773ddaaa41831af1c387df8db9
 e
 5src/test/java/com/test/kata/codewars/PersistTest.java,c/6/c69ca61dbcde1ebb33764ccb19ac80658c58e79a
+d
+4src/test/java/com/test/kata/learn/RecursionTest.java,f/0/f0263f0177a1b969ee0f7da3c6f358ca28e8e34d
