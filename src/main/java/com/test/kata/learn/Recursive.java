@@ -51,4 +51,24 @@ public final class Recursive {
             return minus ? -1 : 1;
         }
     }
+
+    static boolean primeRecursive(int num) {
+        if (num < 2) {
+            return false;
+        }
+        if (num == 2) {
+            return true;
+        }
+        return primeRecursive(num, 2);
+    }
+
+    private static boolean primeRecursive(int num, int counter) {
+        if (num % counter == 0) {
+            return false;
+        }
+        if (counter >= Math.sqrt(num)) {
+            return true;
+        }
+        return primeRecursive(num, ++counter);
+    }
 }
