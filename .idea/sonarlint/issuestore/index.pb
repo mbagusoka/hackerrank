@@ -1,14 +1,10 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-i
-9src/main/java/com/test/kata/hackerrank/HackerrankMay.java,0/2/02099cc72b76087556514d726fb2fea81247c27a
 T
 $src/main/java/com/test/kata/App.java,8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c
 j
-:src/main/java/com/test/kata/hackerrank/HackerrankJune.java,5/1/511ff1c4feefac54aa7ee40832fba3147228a54a
-j
-:src/test/java/com/test/kata/hackerrank/SortNumberTest.java,3\f\3fe66f457ae1ad46a1d074822152b6dda7314ec1
+:src/test/java/com/test/kata/hackerrank/SortNumberTest.java,3/f/3fe66f457ae1ad46a1d074822152b6dda7314ec1
 `
 0src/main/java/com/test/kata/learn/Recursive.java,1/6/16963396ee6bece696f0959e02ee4cbdc8265b40
 d
@@ -19,18 +15,6 @@ b
 2src/test/java/com/test/kata/test/CodilityTest.java,7/5/7534273e904c206f3ef1b7fdb1370aa09e1e2ff2
 ^
 .src/main/java/com/test/kata/test/Codility.java,3/6/36a73d8e656adc000526d99dd89eb644db509d34
-k
-;src/main/java/com/test/kata/hackerrank/HackerrankApril.java,6/7/67383555df5d1865dc387684672bbc12b1450352
-l
-<src/main/java/com/test/kata/hackerrank/HackerrankAugust.java,5/7/579a8ef314d0d1ac453b5926894d2fa5dfa0f325
-o
-?src/main/java/com/test/kata/hackerrank/HackerrankSeptember.java,a/4/a40b7b4f0a17a2d666073d8ab4286c7c023a7d19
-j
-:src/main/java/com/test/kata/hackerrank/HackerrankJuly.java,3/5/35173b1f319ededd970a75e191deae5ee7de648b
-m
-=src/main/java/com/test/kata/hackerrank/HackerrankOctober.java,c/8/c8aea889b93722e1c8d737ae6bedd611f56ecfe2
-a
-1src/main/java/com/test/kata/test/CodilityTwo.java,8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d
 e
 5src/test/java/com/test/kata/test/CodilityTwoTest.java,b/e/be1ca5a7587c3bc86b1f40921dc871939976eb02
 b
@@ -57,3 +41,7 @@ d
 4src/test/java/com/test/kata/learn/RecursionTest.java,f/0/f0263f0177a1b969ee0f7da3c6f358ca28e8e34d
 c
 3src/test/java/com/test/kata/codewars/PrimeTest.java,8/1/817690b8bbe92a542019805742af5677c3de4627
+f
+6src/main/java/com/test/kata/hackerrank/Hackerrank.java,b/9/b90ad8a7cf90450b7bcf3fc79bd24237b4c85c4f
+c
+3src/test/java/com/test/kata/codewars/SongTests.java,1/5/1530b2df8798014d28f367216e80ca1796d28785

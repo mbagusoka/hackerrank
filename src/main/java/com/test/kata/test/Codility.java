@@ -8,9 +8,7 @@ import java.util.stream.Collectors;
 
 public final class Codility {
 
-    private Codility() {
-        throw new IllegalAccessError("Util Class");
-    }
+    private Codility() {}
 
     public static int binaryGap(int n) {
         String binary = Integer.toBinaryString(n);

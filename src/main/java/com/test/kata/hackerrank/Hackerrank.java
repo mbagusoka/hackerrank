@@ -6,6 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+@SuppressWarnings("squid:S106")
 public final class Hackerrank {
 
     private Hackerrank() {}
@@ -198,19 +199,13 @@ public final class Hackerrank {
             }
             countBack++;
         }
-        return countFront > countBack ? countBack : countFront;
+        return Math.min(countFront, countBack);
     }
 
     public static int pageCountEx(int n, int p) {
-        int ans = 0;
         int front = p / 2;
         int back = (n / 2 - p / 2);
-        if (front < back) {
-            ans = front;
-        } else {
-            ans = back;
-        }
-        return ans;
+        return Math.min(front, back);
     }
 
     public static void solve(double mealCost, int tipPercent, int taxPercent) {
@@ -220,7 +215,7 @@ public final class Hackerrank {
         System.out.println((int) Math.round(result));
     }
 
-    public static int countingValleys(int n, String s) {
+    public static int countingValleys(String s) {
         int valley = 0;
         int hike = 0;
         for (char c : s.toCharArray()) {
@@ -256,15 +251,6 @@ public final class Hackerrank {
         } else {
             return "Mouse C";
         }
-    }
-
-    public static int pickingNumbers(List<Integer> a) {
-        Collections.sort(a);
-        Set<Integer> set = new TreeSet<>(a);
-        for (int integer : set) {
-
-        }
-        return 0;
     }
 
     public static int hurdleRace(int k, int[] height) {
@@ -641,7 +627,7 @@ public final class Hackerrank {
     }
 
     public static String pangrams(String s) {
-        s = s.toLowerCase().replaceAll(" ", "");
+        s = s.toLowerCase().replace(" ", "");
         Set<Character> alphabets = new HashSet<>();
         for (char c : s.toCharArray()) {
             alphabets.add(c);
@@ -694,7 +680,7 @@ public final class Hackerrank {
         } else {
             count = (t.length() - indexLast) * 2;
         }
-        return s.equals(t) || count == k || count <= k && count % 2 == 0 || count <= k && count % 2 != 0 && k % 2 != 0 ? "Yes" : "No";
+        return s.equals(t) || count <= k && count % 2 == 0 || count <= k && k % 2 != 0 ? "Yes" : "No";
     }
 
     public static int[] climbingLeaderboard(int[] scores, int[] alice) {
@@ -910,7 +896,8 @@ public final class Hackerrank {
         for (int n = p; n <= q; n++) {
             temp = String.valueOf((long) n * n);
             length = temp.length() - String.valueOf(n).length();
-            if (temp.length() > 1 && Integer.valueOf(temp.substring(0, length)) + Integer.valueOf(temp.substring(length)) == n
+            if (temp.length() > 1
+                    && Integer.parseInt(temp.substring(0, length)) + Integer.parseInt(temp.substring(length)) == n
                     || temp.length() == n) {
                 System.out.print(n + " ");
                 count++;
@@ -966,7 +953,7 @@ public final class Hackerrank {
         for (int i = 0; i < cases.length; i++) {
             temp = Integer.MAX_VALUE;
             for (int j = cases[i][0]; j <= cases[i][1]; j++) {
-                temp = w[j] < temp ? w[j] : temp;
+                temp = Math.min(w[j], temp);
             }
             results[i] = temp;
         }
@@ -1086,8 +1073,7 @@ public final class Hackerrank {
         if (s.length() <= 2) {
             return s.length();
         } else {
-            int minimal = Integer.MAX_VALUE;
-            return minimal;
+            return Integer.MAX_VALUE;
         }
     }
 }

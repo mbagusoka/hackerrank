@@ -135,4 +135,8 @@ class Kata {
         }
         return true;
     }
+
+    static String songDecoder(String song) {
+        return song.replace("WUB", " ").trim().replaceAll(" +", " ");
+    }
 }

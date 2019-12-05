@@ -2,22 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/817690b8bbe92a542019805742af5677c3de4627" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/PrimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/test/kata/codewars/PrimeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02099cc72b76087556514d726fb2fea81247c27a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35173b1f319ededd970a75e191deae5ee7de648b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511ff1c4feefac54aa7ee40832fba3147228a54a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/579a8ef314d0d1ac453b5926894d2fa5dfa0f325" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67383555df5d1865dc387684672bbc12b1450352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/8499057bd6c07a9be1f620e2d9e03ec1cf70b96d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40b7b4f0a17a2d666073d8ab4286c7c023a7d19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8aea889b93722e1c8d737ae6bedd611f56ecfe2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankApril.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankAugust.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJuly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJuly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankJune.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankMay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankOctober.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/HackerrankOctober.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/Hackerrank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/Hackerrank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/test/Codility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/test/Codility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTwoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTwoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Recursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankApril.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankAugust.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJuly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankJune.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankMay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankOctober.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/hackerrank/HackerrankSeptember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/test/Codility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/test/Codility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/test/CodilityTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/hackerrank/SortNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/kata/hackerrank/SortNumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/test/CodilityTwoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/kata/test/CodilityTwoTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeTest">
+  <component name="RunManager" selected="JUnit.SongTests">
     <configuration name="PrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
@@ -142,32 +154,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RecursionTest" />
+      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.SongTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionTest.testPowerOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongTests.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RecursionTest" />
-      <option name="METHOD_NAME" value="testPowerOne" />
+      <option name="PACKAGE_NAME" value="com.test.kata.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.codewars.SongTests" />
+      <option name="METHOD_NAME" value="Test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SongTests" />
+        <item itemvalue="JUnit.SongTests.Test2" />
         <item itemvalue="JUnit.PrimeTest" />
         <item itemvalue="JUnit.PrimeTest.testBasic" />
         <item itemvalue="JUnit.PrimeTest.testNotPrime" />
-        <item itemvalue="JUnit.RecursionTest.testPowerOne" />
-        <item itemvalue="JUnit.RecursionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +394,10 @@
       <workItem from="1575119183621" duration="191000" />
       <workItem from="1575122021550" duration="1109000" />
       <workItem from="1575128790402" duration="3179000" />
-      <workItem from="1575214270155" duration="1414000" />
+      <workItem from="1575214270155" duration="2555000" />
+      <workItem from="1575268513377" duration="1286000" />
+      <workItem from="1575271548295" duration="599000" />
+      <workItem from="1575447650870" duration="110000" />
     </task>
     <servers />
   </component>

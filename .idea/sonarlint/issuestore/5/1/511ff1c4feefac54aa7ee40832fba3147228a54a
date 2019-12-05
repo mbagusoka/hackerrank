@@ -1,11 +1,0 @@
-
-psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡8š…²-
-xsquid:S3012¸"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äÜ³ö8ÓÀ²¼İ-
-gsquid:S5361µ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¸¿ºô8ÓÀ²¼İ-
-vsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ã¨×ùÿÿÿÿ8ìåÅ’º-
-Jsquid:S1172‰"&Remove these unused method parameters.(‹Ã¨×ùÿÿÿÿ8ëåÅ’º-
-xsquid:S3012ñ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ù¶Ã8ÓÀ²¼İ-
-\squid:S4973b"9Use the "equals" method if value comparison was intended.(µëàıÿÿÿÿ8ÓÀ²¼İ-
-vsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ã¨×ùÿÿÿÿ8ìåÅ’º-
-vsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ¤äùÿÿÿÿ8ìåÅ’º-
-wsquid:S3012^"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö8ÓÀ²¼İ-
