@@ -1,6 +1,6 @@
 
 7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 T
 $src/main/java/com/test/kata/App.java,8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c
 j
@@ -45,3 +45,7 @@ f
 6src/main/java/com/test/kata/hackerrank/Hackerrank.java,b/9/b90ad8a7cf90450b7bcf3fc79bd24237b4c85c4f
 c
 3src/test/java/com/test/kata/codewars/SongTests.java,1/5/1530b2df8798014d28f367216e80ca1796d28785
+r
+Bsrc/test/java/com/test/kata/learn/PlacementRecommendationTest.java,b/1/b1a8cb3e4152fda80d0375c88d914b2f9ae1962e
+n
+>src/main/java/com/test/kata/learn/PlacementRecommendation.java,7/4/7435ef72da7efdc9844f32631c03c78974e9670b
