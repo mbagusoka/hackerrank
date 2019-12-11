@@ -49,3 +49,7 @@ r
 Bsrc/test/java/com/test/kata/learn/PlacementRecommendationTest.java,b/1/b1a8cb3e4152fda80d0375c88d914b2f9ae1962e
 n
 >src/main/java/com/test/kata/learn/PlacementRecommendation.java,7/4/7435ef72da7efdc9844f32631c03c78974e9670b
+\
+,src/main/java/com/test/kata/learn/Learn.java,4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062
+a
+1src/test/java/com/test/kata/learn/RotateTest.java,1/d/1d8b1e1bf89c93664ac69bab7016497aa4b9435a

@@ -3,7 +3,7 @@ package com.test.kata.codewars;
 import java.util.*;
 import java.util.stream.Collectors;
 
-class Kata {
+final class Kata {
 
     private Kata() {}
 
