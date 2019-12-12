@@ -4,6 +4,6 @@ package com.test.kata;
 public class App {
 
     public static void main(String[] args) {
-
+        
     }
 }

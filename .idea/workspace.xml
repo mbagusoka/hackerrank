@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/7435ef72da7efdc9844f32631c03c78974e9670b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1a8cb3e4152fda80d0375c88d914b2f9ae1962e" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/ListManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/ListManipulator.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -381,6 +382,8 @@
       <workItem from="1575599248849" duration="2837000" />
       <workItem from="1575945386326" duration="699000" />
       <workItem from="1575962908791" duration="10717000" />
+      <workItem from="1576034523043" duration="436000" />
+      <workItem from="1576065145874" duration="65000" />
     </task>
     <servers />
   </component>

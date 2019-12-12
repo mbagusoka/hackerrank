@@ -13,7 +13,6 @@ public final class ListManipulator {
 
     public static List<Integer> rotateList(List<Integer> integers, int rotateCount) {
         Collections.rotate(integers, rotateCount);
-
         return integers;
     }
 

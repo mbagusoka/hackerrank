@@ -45,11 +45,11 @@ f
 6src/main/java/com/test/kata/hackerrank/Hackerrank.java,b/9/b90ad8a7cf90450b7bcf3fc79bd24237b4c85c4f
 c
 3src/test/java/com/test/kata/codewars/SongTests.java,1/5/1530b2df8798014d28f367216e80ca1796d28785
-r
-Bsrc/test/java/com/test/kata/learn/PlacementRecommendationTest.java,b/1/b1a8cb3e4152fda80d0375c88d914b2f9ae1962e
-n
->src/main/java/com/test/kata/learn/PlacementRecommendation.java,7/4/7435ef72da7efdc9844f32631c03c78974e9670b
 \
 ,src/main/java/com/test/kata/learn/Learn.java,4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062
 a
 1src/test/java/com/test/kata/learn/RotateTest.java,1/d/1d8b1e1bf89c93664ac69bab7016497aa4b9435a
+j
+:src/test/java/com/test/kata/learn/ListManipulatorTest.java,f/a/facd326344ddb020ffa4ee7bcef7095f47fe76f9
+f
+6src/main/java/com/test/kata/learn/ListManipulator.java,0/a/0a553261d7b0ba2ac1964aac4063733cc504c07a
