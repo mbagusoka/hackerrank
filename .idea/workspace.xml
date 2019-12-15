@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d9bb1052fc58c5b5a8d7c6b56034f7ac2ff062" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/7435ef72da7efdc9844f32631c03c78974e9670b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1a8cb3e4152fda80d0375c88d914b2f9ae1962e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/ListManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/ListManipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/learn/ListManipulatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/learn/ListManipulatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/learn/RotateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/learn/RotateTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +89,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ListManipulatorTest">
+  <component name="RunManager" selected="JUnit.KadaneTest">
+    <configuration name="KadaneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.KadaneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KadaneTest.testAllMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.KadaneTest" />
+      <option name="METHOD_NAME" value="testAllMinus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KadaneTest.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.KadaneTest" />
+      <option name="METHOD_NAME" value="testTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListManipulatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
@@ -102,65 +152,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.test.kata in ka-ta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RotateTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateTest.testRotateArrEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RotateTest" />
-      <option name="METHOD_NAME" value="testRotateArrEmpty" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateTest.testRotateArrOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RotateTest" />
-      <option name="METHOD_NAME" value="testRotateArrOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateTest.testRotateArrTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.RotateTest" />
-      <option name="METHOD_NAME" value="testRotateArrTwo" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.test.kata" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -214,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KadaneTest" />
+        <item itemvalue="JUnit.KadaneTest.testAllMinus" />
+        <item itemvalue="JUnit.KadaneTest.testTwo" />
+        <item itemvalue="JUnit.com.test.kata in ka-ta" />
         <item itemvalue="JUnit.ListManipulatorTest" />
-        <item itemvalue="JUnit.RotateTest" />
-        <item itemvalue="JUnit.RotateTest.testRotateArrTwo" />
-        <item itemvalue="JUnit.RotateTest.testRotateArrEmpty" />
-        <item itemvalue="JUnit.RotateTest.testRotateArrOne" />
       </list>
     </recent_temporary>
   </component>
@@ -384,6 +385,9 @@
       <workItem from="1575962908791" duration="10717000" />
       <workItem from="1576034523043" duration="436000" />
       <workItem from="1576065145874" duration="65000" />
+      <workItem from="1576207653574" duration="706000" />
+      <workItem from="1576231067661" duration="108000" />
+      <workItem from="1576385802709" duration="4337000" />
     </task>
     <servers />
   </component>

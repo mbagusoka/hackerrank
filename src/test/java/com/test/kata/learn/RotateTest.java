@@ -24,19 +24,16 @@ public class RotateTest extends TestCase {
 
     public void testRotateOne() {
         List<Integer> result = Arrays.asList(3, 1, 2);
-
         assertEquals(result, Learn.rotate(integers, 1));
     }
 
     public void testRotateTwo() {
         List<Integer> result = Arrays.asList(2, 3, 1);
-
         assertEquals(result, Learn.rotate(integers, 2));
     }
 
     public void testRotateFour() {
         List<Integer> result = Arrays.asList(3, 1, 2);
-
         assertEquals(result, Learn.rotate(integers, 4));
     }
 
@@ -46,19 +43,16 @@ public class RotateTest extends TestCase {
 
     public void testRotateArrOne() {
         int[] result = new int[] {3, 1, 2};
-
         Assert.assertArrayEquals(result, Learn.rotate(arr, 1));
     }
 
     public void testRotateArrTwo() {
         int[] result = new int[] {2, 3, 1};
-
         Assert.assertArrayEquals(result, Learn.rotate(arr, 2));
     }
 
     public void testRotateArrFour() {
         int[] result = new int[] {3, 1, 2};
-
         Assert.assertArrayEquals(result, Learn.rotate(arr, 4));
     }
 }
