@@ -64,4 +64,36 @@ final class Learn {
         }
         return globalMax;
     }
+
+    static String luhn(String token) {
+        if (null == token || 0 == token.trim().length()) {
+            return "";
+        }
+        int sum = getLuhnSum(token);
+        return String.format("%s%s", token, 10 - (sum % 10));
+    }
+
+    static boolean luhnValidation(String token) {
+        if (null == token || 0 == token.trim().length()) {
+            return false;
+        }
+        int sum = getLuhnSum(token);
+        return sum % 10 == 0;
+    }
+
+    private static int getLuhnSum(String token) {
+        int sum = 0;
+        int indexInt;
+        int temp;
+        for (int i = 0; i < token.length(); i++) {
+            indexInt = Integer.parseInt(String.valueOf(token.charAt(i)));
+            if (0 == (i + 1) % 2) {
+                temp = indexInt * 2;
+                sum += temp > 9 ? temp % 10 + 1 : temp;
+            } else {
+                sum += indexInt;
+            }
+        }
+        return sum;
+    }
 }
