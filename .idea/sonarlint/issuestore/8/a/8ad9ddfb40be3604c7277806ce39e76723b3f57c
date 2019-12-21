@@ -1,2 +1,3 @@
 
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¯£øÉï-
+`squid:UselessImportCheck"0Remove this unused import 'java.time.DayOfWeek'.(Óò»¸þÿÿÿÿ8¨ìÉÇñ-
+_squid:UselessImportCheck"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8®„ñáñ-

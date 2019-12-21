@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public final class Learn {
+final class Learn {
 
     private Learn() {}
 

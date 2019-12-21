@@ -53,3 +53,9 @@ j
 :src/test/java/com/test/kata/learn/ListManipulatorTest.java,f/a/facd326344ddb020ffa4ee7bcef7095f47fe76f9
 f
 6src/main/java/com/test/kata/learn/ListManipulator.java,0/a/0a553261d7b0ba2ac1964aac4063733cc504c07a
+a
+1src/test/java/com/test/kata/learn/KadaneTest.java,d/d/ddee218ad6f8123864e8eb362240b9d3ac40c0bc
+f
+6src/main/java/com/test/kata/learn/DateManipulator.java,d/1/d1fb01c50e03355bdc310d0ff24fdf664a47530a
+j
+:src/test/java/com/test/kata/learn/DateManipulatorTest.java,2/0/20f526548d5e3a8a169cf66755734b9e1e198067
