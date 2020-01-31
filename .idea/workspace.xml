@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Learn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Learn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +56,12 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565597267199" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../newbusiness-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -83,24 +94,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.com.test.kata.learn in ka-ta">
-    <configuration name="KadaneTest.testAllMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EncoderTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.KadaneTest" />
-      <option name="METHOD_NAME" value="testAllMinus" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuhnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +117,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.LuhnTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuhnTest.testOddRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncoded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -124,14 +132,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.LuhnTest" />
-      <option name="METHOD_NAME" value="testOddRequest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
+      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncoded" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuhnValidationAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -140,13 +148,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.LuhnValidationAlgorithmTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
+      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncodedOne" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.test.kata.learn in ka-ta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
@@ -155,7 +164,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
+      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncodedTwo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -209,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.com.test.kata.learn in ka-ta" />
-        <item itemvalue="JUnit.LuhnValidationAlgorithmTest" />
-        <item itemvalue="JUnit.LuhnTest" />
-        <item itemvalue="JUnit.LuhnTest.testOddRequest" />
-        <item itemvalue="JUnit.KadaneTest.testAllMinus" />
+        <item itemvalue="JUnit.EncoderTest" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedTwo" />
+        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedOne" />
+        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncoded" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +401,25 @@
       <workItem from="1576660259907" duration="770000" />
       <workItem from="1576667904985" duration="8535000" />
       <workItem from="1576739494625" duration="1143000" />
-      <workItem from="1576902759327" duration="4024000" />
+      <workItem from="1576902759327" duration="5397000" />
+      <workItem from="1577933590982" duration="3339000" />
+      <workItem from="1577961056627" duration="2158000" />
+      <workItem from="1578046074674" duration="1000" />
+      <workItem from="1578114995116" duration="589000" />
+      <workItem from="1578480457763" duration="1000" />
+      <workItem from="1579077683382" duration="2045000" />
+      <workItem from="1579580799959" duration="4403000" />
+      <workItem from="1579610036383" duration="84000" />
+      <workItem from="1579615869709" duration="2000" />
+      <workItem from="1579765733046" duration="477000" />
+      <workItem from="1579834689180" duration="1000" />
+      <workItem from="1579944012725" duration="3293000" />
+      <workItem from="1580097623373" duration="1192000" />
+      <workItem from="1580292918137" duration="811000" />
+      <workItem from="1580353651253" duration="94000" />
+      <workItem from="1580362671940" duration="5558000" />
+      <workItem from="1580389405127" duration="5358000" />
+      <workItem from="1580439710355" duration="3328000" />
     </task>
     <servers />
   </component>
@@ -424,7 +453,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java</url>
-          <line>90</line>
+          <line>56</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

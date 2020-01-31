@@ -59,3 +59,17 @@ f
 6src/main/java/com/test/kata/learn/DateManipulator.java,d/1/d1fb01c50e03355bdc310d0ff24fdf664a47530a
 j
 :src/test/java/com/test/kata/learn/DateManipulatorTest.java,2/0/20f526548d5e3a8a169cf66755734b9e1e198067
+_
+/src/test/java/com/test/kata/learn/LuhnTest.java,3/1/31f602fa0e54168547103b7c3c586db294eaa492
+r
+Bsrc/test/java/com/test/kata/learn/LuhnValidationAlgorithmTest.java,a/d/ad948dbfa14cbf073e96aded03e0e076e3ca55ad
+c
+3src/test/java/com/test/kata/codewars/GreedTest.java,e/7/e7e3301b002f32449ff3619bec7b1852bcaa19ba
+i
+9src/test/java/com/test/kata/codewars/MaxSequenceTest.java,8/2/826260141ff1a19ebd5146f3d0c5065ab6c4c302
+d
+4src/test/java/com/test/kata/codewars/DigPowTest.java,8/8/888cb1910ce17a4562e996621792f9a5cb5def23
+b
+2src/test/java/com/test/kata/learn/EncoderTest.java,b/2/b245dba814058346a5b4d1c99fa2ef33c7601e6e
+^
+.src/main/java/com/test/kata/learn/Encoder.java,b/f/bf72a599f974088ac94c55a1e260553997d2ada0

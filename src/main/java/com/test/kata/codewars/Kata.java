@@ -139,4 +139,74 @@ final class Kata {
     static String songDecoder(String song) {
         return song.replace("WUB", " ").trim().replaceAll(" +", " ");
     }
+
+    static int greedy(int[] dice) {
+        Map<Integer, Integer> numberMaps = getNumbersMap(dice);
+        int result = 0;
+        for (int i = 1; i <= 6; i++) {
+            result = countResult(numberMaps, result, i);
+        }
+        return result;
+    }
+
+    private static int countResult(Map<Integer, Integer> numberMaps, int result, int index) {
+        if (null != numberMaps.get(index)) {
+            int number = numberMaps.get(index);
+            if (number >= 3) {
+                if (1 == index) {
+                    result += 1000;
+                } else {
+                    result += index * 100;
+                }
+                number -= 3;
+            }
+            if (number > 0 && (index == 1 || index == 5)) {
+                if (index == 1 ) {
+                    result += (number * 100);
+                } else {
+                    result += (number * 50);
+                }
+            }
+        }
+        return result;
+    }
+
+    private static Map<Integer, Integer> getNumbersMap(int[] dice) {
+        Map<Integer, Integer> numberMaps = new HashMap<>();
+        for (int n : dice) {
+            if (numberMaps.containsKey(n)) {
+                numberMaps.put(n, numberMaps.get(n) + 1);
+            } else {
+                numberMaps.put(n, 1);
+            }
+        }
+        return numberMaps;
+    }
+
+    static int sequence(int[] arr) {
+        if (isSequenceInvalid(arr)) return 0;
+        int temp = 0;
+        int sum = Integer.MIN_VALUE;
+        for (int n : arr) {
+            temp = Math.max(n, temp + n);
+            if (temp > sum) {
+                sum = temp;
+            }
+        }
+        return sum;
+    }
+
+    private static boolean isSequenceInvalid(int[] ints) {
+        if (0 == ints.length) {
+            return true;
+        }
+        boolean isAllNegative = true;
+        for (int n : ints) {
+            if (n > 0) {
+                isAllNegative = false;
+                break;
+            }
+        }
+        return isAllNegative;
+    }
 }
