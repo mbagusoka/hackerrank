@@ -1,11 +1,11 @@
 package com.test.kata;
 
-import com.test.kata.learn.Recursive;
+import com.test.kata.learn.Another;
 
 @SuppressWarnings("squid:S106")
 public class App {
 
     public static void main(String[] args) {
-        System.out.println(13 / 16);
+        Another.star(5);
     }
 }

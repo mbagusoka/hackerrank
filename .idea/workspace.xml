@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/codewars/Kata.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EncoderTest">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="ka-ta" />
@@ -220,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EncoderTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.EncoderTest" />
         <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedTwo" />
         <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedOne" />
         <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncoded" />
@@ -420,6 +416,10 @@
       <workItem from="1580362671940" duration="5558000" />
       <workItem from="1580389405127" duration="5358000" />
       <workItem from="1580439710355" duration="3328000" />
+      <workItem from="1580737630428" duration="624000" />
+      <workItem from="1580789267161" duration="1273000" />
+      <workItem from="1581481891760" duration="800000" />
+      <workItem from="1582951571125" duration="4361000" />
     </task>
     <servers />
   </component>
@@ -447,17 +447,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hackerrank$DigPowTest_Test1.ic" NAME="DigPowTest.Test1 Coverage Results" MODIFIED="1572838106169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
