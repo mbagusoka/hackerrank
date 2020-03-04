@@ -1,5 +1,6 @@
 package com.test.kata.hackerrank;
 
+import com.test.kata.online.Hackerrank;
 import junit.framework.TestCase;
 import org.junit.Assert;
 

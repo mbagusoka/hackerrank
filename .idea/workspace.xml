@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/codewars/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Codewars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/hackerrank/Hackerrank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Hackerrank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/test/Codility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Codility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/ASumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/ASumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/BinaryArrayToNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/BinaryArrayToNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/BitCountingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/BitCountingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/DigPowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/DigPowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/DuplicateEncoderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/DuplicateEncoderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/GreedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/GreedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/IsogramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/IsogramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/MaxSequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/MaxSequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/MiddleExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/MiddleExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/OutlierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/OutlierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/PersistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/PersistTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/PrimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/SongTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/SongTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/WhichAreInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/codewars/WhichAreInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/hackerrank/SortNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTwoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/kata/test/CodilityTwoTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.LeftRotationTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="ka-ta" />
@@ -119,49 +138,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncoded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeftRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
-      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncoded" />
+      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftRotationTest.testSixRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
+      <option name="METHOD_NAME" value="testSixRotation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeftRotationTest.testTwoRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
-      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncodedOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.EncoderTest" />
-      <option name="METHOD_NAME" value="givenValidRequest_whenEncode_shouldReturnEncodedTwo" />
+      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
+      <option name="METHOD_NAME" value="testTwoRotation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeftRotationTest" />
+        <item itemvalue="JUnit.LeftRotationTest.testSixRotation" />
+        <item itemvalue="JUnit.LeftRotationTest.testTwoRotation" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.EncoderTest" />
-        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedTwo" />
-        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncodedOne" />
-        <item itemvalue="JUnit.EncoderTest.givenValidRequest_whenEncode_shouldReturnEncoded" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +437,8 @@
       <workItem from="1580737630428" duration="624000" />
       <workItem from="1580789267161" duration="1273000" />
       <workItem from="1581481891760" duration="800000" />
-      <workItem from="1582951571125" duration="4361000" />
+      <workItem from="1582951571125" duration="5031000" />
+      <workItem from="1583287294999" duration="2404000" />
     </task>
     <servers />
   </component>

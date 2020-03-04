@@ -1,4 +1,4 @@
-package com.test.kata.test;
+package com.test.kata.online;
 
 import java.util.Arrays;
 import java.util.Collections;

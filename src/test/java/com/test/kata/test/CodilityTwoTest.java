@@ -1,5 +1,6 @@
 package com.test.kata.test;
 
+import com.test.kata.online.Codility;
 import junit.framework.TestCase;
 
 import java.util.Arrays;

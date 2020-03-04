@@ -1,4 +1,4 @@
-package com.test.kata.hackerrank;
+package com.test.kata.online;
 
 import java.math.BigInteger;
 import java.util.*;
@@ -1075,5 +1075,21 @@ public final class Hackerrank {
         } else {
             return Integer.MAX_VALUE;
         }
+    }
+
+    public static int[] rotLeft(int[] a, int d) {
+        if (1 >= a.length || 0 == d) {
+            return a;
+        }
+        d = d % a.length;
+        int[] newArr = new int[a.length];
+        int j = 0;
+        for (int i = d; i < a.length; i++, j++) {
+            newArr[j] = a[i];
+        }
+        for (int k = 0; j < newArr.length; j++, k++) {
+            newArr[j] = a[k];
+        }
+        return newArr;
     }
 }

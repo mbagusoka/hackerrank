@@ -1,13 +1,13 @@
-package com.test.kata.codewars;
+package com.test.kata.online;
 
 import java.util.*;
 import java.util.stream.Collectors;
 
-final class Kata {
+public final class Codewars {
 
-    private Kata() {}
+    private Codewars() {}
 
-    static long findNb(long m) {
+    public static long findNb(long m) {
         long total = 0;
         int counter = 0;
         while (total < m) {
@@ -17,7 +17,7 @@ final class Kata {
         return m == total ? counter : -1;
     }
 
-    static String getMiddle(String word) {
+    public static String getMiddle(String word) {
         if (word.length() % 2 == 0) {
             return word.substring(word.length() / 2 - 1, word.length() / 2 + 1);
         } else {
@@ -25,7 +25,7 @@ final class Kata {
         }
     }
 
-    static int convertBinaryArrayToInt(List<Integer> asList) {
+    public static int convertBinaryArrayToInt(List<Integer> asList) {
         StringBuilder builder = new StringBuilder();
         for (int x : asList) {
             builder.append(x);
@@ -33,7 +33,7 @@ final class Kata {
         return Integer.parseInt(builder.toString(), 2);
     }
 
-    static String encode(String word) {
+    public static String encode(String word) {
         List<Character> charList = word.toLowerCase().chars()
                 .mapToObj(x -> (char) x).collect(Collectors.toList());
         StringBuilder builder = new StringBuilder();
@@ -47,7 +47,7 @@ final class Kata {
         return builder.toString();
     }
 
-    static int countBits(int n) {
+    public static int countBits(int n) {
         String binary = Integer.toBinaryString(n);
         int counter = 0;
         for (char c : binary.toCharArray()) {
@@ -58,7 +58,7 @@ final class Kata {
         return counter;
     }
 
-    static boolean isIsogram(String s) {
+    public static boolean isIsogram(String s) {
         Set<Character> characterSet = new HashSet<>();
         for (char c : s.toLowerCase().toCharArray()) {
             if (!characterSet.add(c)) {
@@ -68,7 +68,7 @@ final class Kata {
         return true;
     }
 
-    static String[] inArray(String[] array1, String[] array2) {
+    public static String[] inArray(String[] array1, String[] array2) {
         List<String> stringList = new ArrayList<>();
         for (String s : array1) {
             for (String s2 : array2) {
@@ -82,7 +82,7 @@ final class Kata {
         return stringList.toArray(new String[0]);
     }
 
-    static int findOutlier(int[] integers) {
+    public static int findOutlier(int[] integers) {
         List<Integer> odds = new ArrayList<>();
         List<Integer> evens = new ArrayList<>();
         for (int n : integers) {
@@ -95,7 +95,7 @@ final class Kata {
         return odds.size() > evens.size() ? evens.get(0) : odds.get(0);
     }
 
-    static int persistence(long n) {
+    public static int persistence(long n) {
         if (n <= 9) {
             return 0;
         } else {
@@ -113,7 +113,7 @@ final class Kata {
         }
     }
 
-    static int digPow(int n, int p) {
+    public static int digPow(int n, int p) {
         int result = 0;
         String digit = String.valueOf(n);
         for (int i = 0; i < digit.length(); i++) {
@@ -126,7 +126,7 @@ final class Kata {
         }
     }
 
-    static boolean isPrime(int num) {
+    public static boolean isPrime(int num) {
         if (num <  2) {
             return false;
         }
@@ -136,11 +136,11 @@ final class Kata {
         return true;
     }
 
-    static String songDecoder(String song) {
+    public static String songDecoder(String song) {
         return song.replace("WUB", " ").trim().replaceAll(" +", " ");
     }
 
-    static int greedy(int[] dice) {
+    public static int greedy(int[] dice) {
         Map<Integer, Integer> numberMaps = getNumbersMap(dice);
         int result = 0;
         for (int i = 1; i <= 6; i++) {
@@ -183,7 +183,7 @@ final class Kata {
         return numberMaps;
     }
 
-    static int sequence(int[] arr) {
+    public static int sequence(int[] arr) {
         if (isSequenceInvalid(arr)) return 0;
         int temp = 0;
         int sum = Integer.MIN_VALUE;

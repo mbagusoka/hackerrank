@@ -1,5 +1,6 @@
 package com.test.kata.codewars;
 
+import com.test.kata.online.Codewars;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -8,13 +9,13 @@ public class IsogramTest {
 
     @Test
     public void fixedTests() {
-        assertEquals(true, Kata.isIsogram("Dermatoglyphics"));
-        assertEquals(true, Kata.isIsogram("isogram"));
-        assertEquals(false, Kata.isIsogram("moose"));
-        assertEquals(false, Kata.isIsogram("isIsogram"));
-        assertEquals(false, Kata.isIsogram("aba"));
-        assertEquals(false, Kata.isIsogram("moOse"));
-        assertEquals(true, Kata.isIsogram("thumbscrewjapingly"));
-        assertEquals(true, Kata.isIsogram(""));
+        assertEquals(true, Codewars.isIsogram("Dermatoglyphics"));
+        assertEquals(true, Codewars.isIsogram("isogram"));
+        assertEquals(false, Codewars.isIsogram("moose"));
+        assertEquals(false, Codewars.isIsogram("isIsogram"));
+        assertEquals(false, Codewars.isIsogram("aba"));
+        assertEquals(false, Codewars.isIsogram("moOse"));
+        assertEquals(true, Codewars.isIsogram("thumbscrewjapingly"));
+        assertEquals(true, Codewars.isIsogram(""));
     }
 }

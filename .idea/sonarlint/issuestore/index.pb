@@ -73,3 +73,5 @@ b
 2src/test/java/com/test/kata/learn/EncoderTest.java,b/2/b245dba814058346a5b4d1c99fa2ef33c7601e6e
 ^
 .src/main/java/com/test/kata/learn/Encoder.java,b/f/bf72a599f974088ac94c55a1e260553997d2ada0
+^
+.src/main/java/com/test/kata/learn/Another.java,0/5/052e46ca1c8d428409ff11a147378bc8927e0dd0
