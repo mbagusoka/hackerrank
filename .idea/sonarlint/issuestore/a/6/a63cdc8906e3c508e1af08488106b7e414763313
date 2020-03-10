@@ -1,0 +1,11 @@
+
+jsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡
+osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ¤äùÿÿÿÿ
+qsquid:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö
+Esquid:S1172·"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ
+xsquid:S1192‡"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ß÷úÿÿÿÿ
+qsquid:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ù¶Ã
+vsquid:S3012á"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á›‡ˆÿÿÿÿÿ
+@squid:S1172Ä"(Remove this unused method parameter "n".(³Ù¼ÿ
+Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(µëàıÿÿÿÿ
+qsquid:S3012ú"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äÜ³ö

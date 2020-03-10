@@ -2,6 +2,7 @@ package com.test.kata.online;
 
 import java.math.BigInteger;
 import java.util.*;
+import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -1091,5 +1092,19 @@ public final class Hackerrank {
             newArr[j] = a[k];
         }
         return newArr;
+    }
+
+    public static void checkMagazine(String[] magazine, String[] note) {
+        Map<String, Long> magMap = Arrays.stream(magazine)
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        for (String s : note) {
+            if (null != magMap.get(s) && magMap.get(s) != 0) {
+                magMap.put(s, magMap.get(s) - 1);
+            } else {
+                System.out.println("No");
+                return;
+            }
+        }
+        System.out.println("Yes");
     }
 }

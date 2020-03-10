@@ -13,14 +13,10 @@ f
 6src/test/java/com/test/kata/learn/PermutationTest.java,a/c/ac3685375c6a39a1667a70f204586d0d4a43c21b
 b
 2src/test/java/com/test/kata/test/CodilityTest.java,7/5/7534273e904c206f3ef1b7fdb1370aa09e1e2ff2
-^
-.src/main/java/com/test/kata/test/Codility.java,3/6/36a73d8e656adc000526d99dd89eb644db509d34
 e
 5src/test/java/com/test/kata/test/CodilityTwoTest.java,b/e/be1ca5a7587c3bc86b1f40921dc871939976eb02
 b
 2src/test/java/com/test/kata/codewars/ASumTest.java,3/a/3a16a7e20978c98cd81417ee53240883db01f72a
-^
-.src/main/java/com/test/kata/codewars/Kata.java,4/b/4bbc98f1389b36742352525e932accbe9abb89e7
 k
 ;src/test/java/com/test/kata/codewars/MiddleExampleTest.java,6/e/6e117f067595e9b5b021db98dbb8f7c8f97c5a40
 q
@@ -41,8 +37,6 @@ d
 4src/test/java/com/test/kata/learn/RecursionTest.java,f/0/f0263f0177a1b969ee0f7da3c6f358ca28e8e34d
 c
 3src/test/java/com/test/kata/codewars/PrimeTest.java,8/1/817690b8bbe92a542019805742af5677c3de4627
-f
-6src/main/java/com/test/kata/hackerrank/Hackerrank.java,b/9/b90ad8a7cf90450b7bcf3fc79bd24237b4c85c4f
 c
 3src/test/java/com/test/kata/codewars/SongTests.java,1/5/1530b2df8798014d28f367216e80ca1796d28785
 \
@@ -75,3 +69,11 @@ b
 .src/main/java/com/test/kata/learn/Encoder.java,b/f/bf72a599f974088ac94c55a1e260553997d2ada0
 ^
 .src/main/java/com/test/kata/learn/Another.java,0/5/052e46ca1c8d428409ff11a147378bc8927e0dd0
+`
+0src/main/java/com/test/kata/online/Codility.java,3/8/38e43d0fb7fabe577a7038a7c9ca7fb4a9ba844b
+`
+0src/main/java/com/test/kata/online/Codewars.java,2/4/24ffb9618f18dbe9476bda4de608d30913c3fce5
+l
+<src/test/java/com/test/kata/hackerrank/LeftRotationTest.java,a/2/a2f25c23dea4df77db93f194608f473874a15788
+b
+2src/main/java/com/test/kata/online/Hackerrank.java,a/6/a63cdc8906e3c508e1af08488106b7e414763313

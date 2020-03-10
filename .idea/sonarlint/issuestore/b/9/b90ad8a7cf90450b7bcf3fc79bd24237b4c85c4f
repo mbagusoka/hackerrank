@@ -1,11 +1,0 @@
-
-}squid:S3012à"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á›‡ˆÿÿÿÿÿ8£”Æ‘ì-
-qsquid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡8£”Æ‘ì-
-xsquid:S3012Ÿ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö8£”Æ‘ì-
-squid:S1192†"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ß÷úÿÿÿÿ8£”Æ‘ì-
-]squid:S4973£"9Use the "equals" method if value comparison was intended.(µëàıÿÿÿÿ8£”Æ‘ì-
-Lsquid:S1172¶"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ8£”Æ‘ì-
-vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ¤äùÿÿÿÿ8£”Æ‘ì-
-Gsquid:S1172Ã"(Remove this unused method parameter "n".(³Ù¼ÿ8£”Æ‘ì-
-xsquid:S3012²"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ù¶Ã8£”Æ‘ì-
-xsquid:S3012ù"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äÜ³ö8£”Æ‘ì-
