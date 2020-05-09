@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36a73d8e656adc000526d99dd89eb644db509d34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bbc98f1389b36742352525e932accbe9abb89e7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b90ad8a7cf90450b7bcf3fc79bd24237b4c85c4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/learn/Learn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Hackerrank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Hackerrank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Learn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/learn/Learn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/online/Hackerrank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/online/Hackerrank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/kata/hackerrank/CheckMagazineTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +58,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565597267199" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newbusiness-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-logic" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,13 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckMagazineTest">
+  <component name="RunManager" selected="JUnit.MinimumSwapTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.*" />
+          <option name="PATTERN" value="com.test.kata.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,63 +111,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckMagazineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HourglassSumTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
+          <option name="PATTERN" value="com.test.kata.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.CheckMagazineTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftRotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftRotationTest.testSixRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
-      <option name="METHOD_NAME" value="testSixRotation" />
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.HourglassSumTest" />
+      <option name="METHOD_NAME" value="testOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotationTest.testTwoRotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KadaneTest.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ka-ta" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.hackerrank.*" />
+          <option name="PATTERN" value="com.test.kata.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.hackerrank" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.hackerrank.LeftRotationTest" />
-      <option name="METHOD_NAME" value="testTwoRotation" />
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.KadaneTest" />
+      <option name="METHOD_NAME" value="testTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumSwapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.MinimumSwapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumSwapTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ka-ta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.learn.MinimumSwapTest" />
+      <option name="METHOD_NAME" value="testOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CheckMagazineTest" />
+        <item itemvalue="JUnit.MinimumSwapTest" />
+        <item itemvalue="JUnit.MinimumSwapTest.testOne" />
+        <item itemvalue="JUnit.HourglassSumTest.testOne" />
+        <item itemvalue="JUnit.KadaneTest.testTwo" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.LeftRotationTest" />
-        <item itemvalue="JUnit.LeftRotationTest.testSixRotation" />
-        <item itemvalue="JUnit.LeftRotationTest.testTwoRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -428,6 +432,27 @@
       <workItem from="1583409779966" duration="83000" />
       <workItem from="1583468038991" duration="701000" />
       <workItem from="1583721462665" duration="1498000" />
+      <workItem from="1583838517063" duration="270000" />
+      <workItem from="1583901512392" duration="71000" />
+      <workItem from="1583998747656" duration="159000" />
+      <workItem from="1584185949431" duration="1452000" />
+      <workItem from="1584420805416" duration="369000" />
+      <workItem from="1584433374392" duration="52000" />
+      <workItem from="1585463866998" duration="58000" />
+      <workItem from="1585555451660" duration="981000" />
+      <workItem from="1585557080057" duration="2186000" />
+      <workItem from="1586419038513" duration="1890000" />
+      <workItem from="1587126747885" duration="5513000" />
+      <workItem from="1587187702501" duration="187000" />
+      <workItem from="1587367486153" duration="3531000" />
+      <workItem from="1587707214768" duration="1064000" />
+      <workItem from="1588387706462" duration="116000" />
+      <workItem from="1588391584345" duration="765000" />
+      <workItem from="1588494499921" duration="1880000" />
+      <workItem from="1588505555649" duration="219000" />
+      <workItem from="1588511338918" duration="1462000" />
+      <workItem from="1588591341306" duration="1818000" />
+      <workItem from="1589031506419" duration="3436000" />
     </task>
     <servers />
   </component>

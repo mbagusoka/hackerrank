@@ -1,11 +1,19 @@
 
-jsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡
-osquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ¤äùÿÿÿÿ
-qsquid:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö
-Esquid:S1172·"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ
-xsquid:S1192‡"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ß÷úÿÿÿÿ
-qsquid:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ù¶Ã
-vsquid:S3012á"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á›‡ˆÿÿÿÿÿ
-@squid:S1172Ä"(Remove this unused method parameter "n".(³Ù¼ÿ
-Vsquid:S4973¤"9Use the "equals" method if value comparison was intended.(µëàıÿÿÿÿ
-qsquid:S3012ú"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äÜ³ö
+K
+java:S1172·"(Remove this unused method parameter "n".(¨“òÈûÿÿÿÿ8„‘Á˜.
+n	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×‹¡8„‘Á˜.
+w
+java:S3012ú"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(äÜ³ö8„‘Á˜.
+w
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö8„‘Á˜.
+w
+java:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ù¶Ã8„‘Á˜.
+|
+java:S3012á"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á›‡ˆÿÿÿÿÿ8„‘Á˜.
+F
+java:S1172Ä"(Remove this unused method parameter "n".(³Ù¼ÿ8„‘Á˜.
+~
+java:S1192‡"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ß÷úÿÿÿÿ8„‘Á˜.
+\
+java:S4973¤"9Use the "equals" method if value comparison was intended.(µëàıÿÿÿÿ8„‘Á˜.
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛ¤äùÿÿÿÿ8„‘Á˜.

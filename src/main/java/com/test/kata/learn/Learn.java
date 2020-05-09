@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-final class Learn {
+@SuppressWarnings("squid:S106")
+public final class Learn {
 
     private Learn() {}
 
@@ -95,5 +96,57 @@ final class Learn {
             }
         }
         return sum;
+    }
+
+    static int[] selectionSort(int[] arr) {
+        if (arr.length == 0) {
+            return arr;
+        }
+        for (int i = 0; i < arr.length - 1; i++) {
+            int minIndex = i;
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[j] < arr[i]) {
+                    minIndex = j;
+                }
+            }
+            int temp = arr[minIndex];
+            arr[minIndex] = arr[i];
+            arr[i] = temp;
+        }
+        return arr;
+    }
+
+    public static void pyramid(String token) {
+        for (int i = 0, j = token.length() - 1, l = -1; i < token.length(); i++, j--, l += 2) {
+            if (i != token.length() - 1) {
+                notLastChar(token, i, j, l);
+            } else {
+                doLastChar(token, i);
+            }
+        }
+    }
+
+    private static void notLastChar(String token, int i, int j, int l) {
+        for (int k = 0; k < j; k++) {
+            System.out.print(" ");
+        }
+        System.out.print(token.charAt(i));
+        if (i > 0) {
+            for (int m = 0; m < l; m++) {
+                System.out.print(" ");
+            }
+            System.out.print(token.charAt(i));
+        }
+        System.out.println();
+    }
+
+    private static void doLastChar(String token, int i) {
+        for (int o = 0; o < token.length() * 2; o++) {
+            if (o % 2 == 0) {
+                System.out.print(token.charAt(i));
+            } else {
+                System.out.print(" ");
+            }
+        }
     }
 }

@@ -1107,4 +1107,67 @@ public final class Hackerrank {
         }
         System.out.println("Yes");
     }
+
+    public static void minimumBribes(int[] q) {
+        int bribeCount = 0;
+        for (int i = q.length - 1; i >= 0; i--) {
+            if (q[i] - (i + 1) > 2) {
+                System.out.println("Too chaotic");
+                return;
+            }
+            for (int j = Math.max(0, q[i] - 2); j < i; j++) {
+                if (q[j] > q[i]) {
+                    bribeCount++;
+                }
+            }
+        }
+        System.out.println(bribeCount);
+    }
+
+    public static int maximumToys(int[] prices, int k) {
+        int toysCount = 0;
+        Arrays.sort(prices);
+        for (int price : prices) {
+            if (price > k) {
+                break;
+            }
+            toysCount++;
+            k -= price;
+        }
+        return toysCount;
+    }
+
+    public static int hourglassSum(int[][] arr) {
+        int highest = Integer.MIN_VALUE;
+        int temp;
+        for (int i = 0; i < arr.length - 2; i++) {
+            for (int j = 0, k = 1; j < arr[i].length - 2; j++, k++) {
+                temp = 0;
+                temp += arr[i][j] + arr[i][j + 1] + arr[i][j + 2];
+                temp += arr[i + 1][k];
+                temp += arr[i + 2][j] + arr[i + 2][j + 1] + arr[i + 2][j + 2];
+                if (temp > highest) {
+                    highest = temp;
+                }
+            }
+        }
+        return highest;
+    }
+
+    public static int minimumSwaps(int[] arr) {
+        int swap = 0;
+        int temp;
+        int i = 0;
+        while (i < arr.length) {
+            if (arr[i] != i + 1) {
+                temp = arr[arr[i] - 1];
+                arr[arr[i] - 1] = arr[i];
+                arr[i] = temp;
+                swap++;
+            } else {
+                i++;
+            }
+        }
+        return swap;
+    }
 }
