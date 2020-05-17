@@ -81,3 +81,9 @@ h
 8src/test/java/com/test/kata/learn/SelectionSortTest.java,b/d/bd0730c2154820fa69e747111c69674a6e1df88f
 a
 1src/main/java/com/test/kata/learn/LinkedList.java,9/7/97b7ec32a83799e825765b4427692471bc779e27
+g
+7src/test/java/com/test/kata/learn/HourglassSumTest.java,4/2/42285109dd24afa8dc4adea7224e3bc12faa00bf
+f
+6src/test/java/com/test/kata/learn/MinimumSwapTest.java,3/b/3b56d1ad759719815efe1590718dca7883022874
+h
+8src/test/java/com/test/kata/learn/CountTripletsTest.java,7/f/7f561997e82c39d2932f656516f34bffcf67c4eb

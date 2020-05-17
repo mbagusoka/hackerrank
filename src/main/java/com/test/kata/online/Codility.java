@@ -1,9 +1,6 @@
 package com.test.kata.online;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public final class Codility {
@@ -160,6 +157,70 @@ public final class Codility {
                 i++;
             }
             return rounds;
+        }
+    }
+
+    public static String reversed(String s) {
+        String[] arr = s.split(" ");
+        List<String> strings = new ArrayList<>();
+        for (String single : arr) {
+            StringBuilder builder =  new StringBuilder();
+            for (int i = single.length() - 1; i >= 0; i--) {
+                builder.append(single.toCharArray()[i]);
+            }
+            strings.add(builder.toString());
+        }
+        StringBuilder builder = new StringBuilder();
+        for (String string : strings) {
+            builder.append(string).append(" ");
+        }
+        return builder.toString().trim();
+    }
+
+    public static int longestPath(Tree tree) {
+        int leftSum = countPath(tree.l);
+        int rightSum = countPath(tree.r);
+        return Math.max(leftSum, rightSum);
+    }
+
+    private static int countPath(Tree tree) {
+        if (null == tree) {
+            return 0;
+        }
+        return 1 + Math.max(countPath(tree.l), countPath(tree.r));
+    }
+
+    public static boolean possibleSwap(int[] arr) {
+        int index = -1;
+        for (int i = 0; i < arr.length - 1; i++) {
+            if (arr[i] > arr[i + 1]) {
+                index = i;
+                break;
+            }
+        }
+        int count = 0;
+        if (index != -1) {
+            for (int i = index + 1; i < arr.length; i++) {
+                if (arr[index] > arr[i] && arr[i] != arr[i - 1]) {
+                    count++;
+                }
+            }
+        }
+        return count <= 1;
+    }
+
+    public static class Tree {
+
+        public int x;
+        public Tree l;
+        public Tree r;
+
+        public Tree() {}
+
+        public Tree(int x, Tree l, Tree r) {
+            this.x = x;
+            this.l = l;
+            this.r = r;
         }
     }
 }

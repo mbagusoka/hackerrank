@@ -1170,4 +1170,18 @@ public final class Hackerrank {
         }
         return swap;
     }
+
+    public static long countTriplets(List<Long> arr, long r) {
+        Map<Long, Long> t2 = new HashMap<>();
+        Map<Long, Long> t3 = new HashMap<>();
+        long result = 0;
+        for (long n : arr) {
+            result += t3.getOrDefault(n, 0L);
+            if (t2.containsKey(n)) {
+                t3.put(n * r, t3.getOrDefault(n * r, 0L) + t2.get(n));
+            }
+            t2.put(n * r, t2.getOrDefault(n * r, 0L) + 1);
+        }
+        return result;
+    }
 }
