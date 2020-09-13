@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38e43d0fb7fabe577a7038a7c9ca7fb4a9ba844b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38e43d0fb7fabe577a7038a7c9ca7fb4a9ba844b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ka-ta.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/ka-ta.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/online/LeetCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/LeetCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/online/LeetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/online/LeetCode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +99,7 @@
       <recent name="com.test.kata.codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddTwoNumbersTest.testOne">
+  <component name="RunManager" selected="JUnit.RomanToIntegerTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
       <module name="hackerrank" />
@@ -148,32 +140,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonSerializationGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.common.*" />
+          <option name="PATTERN" value="com.test.kata.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.common" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.common.NonSerializationGeneratorTest" />
+      <option name="PACKAGE_NAME" value="com.test.kata.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.leetcode.RomanToIntegerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PossibleSwapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
+    <configuration name="RomanToIntegerTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.test.*" />
+          <option name="PATTERN" value="com.test.kata.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.PossibleSwapTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.test.kata.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.leetcode.RomanToIntegerTest" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RomanToIntegerTest" />
+        <item itemvalue="JUnit.RomanToIntegerTest.testOne" />
         <item itemvalue="JUnit.AddTwoNumbersTest.testOne" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.TwoSumTest" />
-        <item itemvalue="JUnit.NonSerializationGeneratorTest" />
-        <item itemvalue="JUnit.PossibleSwapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +487,7 @@
       <workItem from="1599358056147" duration="792000" />
       <workItem from="1599482128725" duration="653000" />
       <workItem from="1599647784071" duration="4141000" />
-      <workItem from="1599978005991" duration="3219000" />
+      <workItem from="1599978005991" duration="7089000" />
     </task>
     <servers />
   </component>
@@ -543,53 +536,53 @@
       <screen x="0" y="33" width="1920" height="1047" />
     </state>
     <state x="627" y="212" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.33.1920.1047@0.33.1920.1047" timestamp="1599054082835" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1599981540578">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1599984520423">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="204" key="GridCell.Tab.0.bottom/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599984520423" />
     <state width="1864" height="320" key="GridCell.Tab.0.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1599981540578">
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1599984520420">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="204" key="GridCell.Tab.0.center/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599984520420" />
     <state width="1864" height="320" key="GridCell.Tab.0.center/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1599981540577">
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1599984520418">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="204" key="GridCell.Tab.0.left/0.27.1536.837@0.27.1536.837" timestamp="1598722848236" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540577" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599984520418" />
     <state width="1864" height="320" key="GridCell.Tab.0.left/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1599981540578">
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1599984520421">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="204" key="GridCell.Tab.0.right/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599984520421" />
     <state width="1864" height="320" key="GridCell.Tab.0.right/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1599981144172">
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1599983828881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="253" key="GridCell.Tab.1.bottom/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
-    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144172" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599983828881" />
     <state width="1864" height="320" key="GridCell.Tab.1.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219375" />
-    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1599981144167">
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1599983828881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="253" key="GridCell.Tab.1.center/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
-    <state width="1864" height="321" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144167" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599983828881" />
     <state width="1864" height="320" key="GridCell.Tab.1.center/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1599981144166">
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1599983828881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="253" key="GridCell.Tab.1.left/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
-    <state width="1864" height="321" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144166" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599983828881" />
     <state width="1864" height="320" key="GridCell.Tab.1.left/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
-    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1599981144171">
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1599983828881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1490" height="253" key="GridCell.Tab.1.right/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
-    <state width="1864" height="321" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144171" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599983828881" />
     <state width="1864" height="320" key="GridCell.Tab.1.right/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219375" />
     <state x="260" y="66" width="1016" height="742" key="SettingsEditor" timestamp="1598237588659">
       <screen x="0" y="27" width="1536" height="837" />
