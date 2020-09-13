@@ -1,19 +1,19 @@
 
-n	java:S117Ξ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Χ‹΅8»οφ.
 w
 java:S3012³"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ω¶Γ8»οφ.
-~
-java:S1192‡"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ίχϊÿÿÿÿ8»οφ.
-F
-java:S1172Δ"(Remove this unused method parameter "n".(³ΩΌÿ8»οφ.
-|
-java:S3012α"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Α›‡ÿÿÿÿÿ8»οφ.
-\
-java:S4973¤"9Use the "equals" method if value comparison was intended.(µλΰύÿÿÿÿ8»οφ.
-K
-java:S1172·"(Remove this unused method parameter "n".(¨“ςΘϋÿÿÿÿ8»οφ.
-s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜΫ¤δωÿÿÿÿ8»οφ.
 w
 java:S3012ϊ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(δά³φ8»οφ.
 w
 java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(θΠήφ8»οφ.
+F
+java:S1172Δ"(Remove this unused method parameter "n".(³ΩΌÿ8»οφ.
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΜΫ¤δωÿÿÿÿ8»οφ.
+~
+java:S1192‡"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 5 times.(ίχϊÿÿÿÿ8»οφ.
+|
+java:S3012α"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Α›‡ÿÿÿÿÿ8»οφ.
+K
+java:S1172·"(Remove this unused method parameter "n".(¨“ςΘϋÿÿÿÿ8»οφ.
+n	java:S117Ξ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Χ‹΅8»οφ.
+\
+java:S4973¤"9Use the "equals" method if value comparison was intended.(µλΰύÿÿÿÿ8»οφ.

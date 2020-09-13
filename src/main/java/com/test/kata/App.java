@@ -1,42 +1,39 @@
 package com.test.kata;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @SuppressWarnings("squid:S106")
 public class App {
 
     public static void main(String[] args) {
-        List<String> strings = new ArrayList<>();
-        for (int i = 0; i < 10000000; i++) {
-            strings.add("dummy");
-        }
-        usingLambda(strings);
-        testForEach(strings);
-        testNative(strings);
+        System.out.println(factorial(4));
+        System.out.println(fibonacci(5));
+        System.out.println(sum(new int[] {1, 3, 4}));
     }
 
-    private static void usingLambda(List<String> strings) {
-        long start = System.currentTimeMillis();
-        strings.forEach(s -> {
-
-        });
-        System.out.println("Lambda: " + (System.currentTimeMillis() - start));
+    public static int factorial(int num) {
+        if (num < 1) {
+            return 1;
+        } else {
+            return num * factorial(num - 1);
+        }
     }
 
-    private static void testNative(List<String> strings) {
-        long start = System.currentTimeMillis();
-        for (int i = 0; i < strings.size(); i++) {
-
+    public static int fibonacci(int num) {
+        if (num == 1 || num == 0) {
+            return num;
+        } else {
+            return fibonacci(num - 1) + fibonacci(num - 2);
         }
-        System.out.println("Native: " + (System.currentTimeMillis() - start));
     }
 
-    private static void testForEach(List<String> strings) {
-        long start = System.currentTimeMillis();
-        for (String string : strings) {
+    public static int sum(int[] nums) {
+        return sum(nums, 0);
+    }
 
+    public static int sum(int[] nums, int index) {
+        if (index == nums.length) {
+            return 0;
+        } else {
+            return nums[index] + sum(nums, index + 1);
         }
-        System.out.println("For Loop: " + (System.currentTimeMillis() - start));
     }
 }

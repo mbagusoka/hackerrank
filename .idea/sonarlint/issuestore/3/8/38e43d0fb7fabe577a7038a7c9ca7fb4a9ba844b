@@ -1,5 +1,11 @@
 
-usquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»ë©şÿÿÿÿ8“”¸‘ì-
-vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À© üÿÿÿÿ8“”¸‘ì-
-vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À© üÿÿÿÿ8“”¸‘ì-
-usquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»ë©şÿÿÿÿ8“”¸‘ì-
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»ë©şÿÿÿÿ8€ÈİëÅ.
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»ë©şÿÿÿÿ8€ÈİëÅ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À© üÿÿÿÿ8€ÈİëÅ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À© üÿÿÿÿ8€ÈİëÅ.
+p
+java:S1104Ö"MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿ8€ÈİëÅ.
+j
+java:S1104×"MMake l a static final constant or non-public and provide accessors if needed.(ø8€ÈİëÅ.
+p
+java:S1104Ø"MMake r a static final constant or non-public and provide accessors if needed.(»‡âşÿÿÿÿ8€ÈİëÅ.

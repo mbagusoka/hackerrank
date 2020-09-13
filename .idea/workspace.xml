@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7f0bcea-e739-408d-bc98-14c5ff5e684a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38e43d0fb7fabe577a7038a7c9ca7fb4a9ba844b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38e43d0fb7fabe577a7038a7c9ca7fb4a9ba844b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad9ddfb40be3604c7277806ce39e76723b3f57c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63cdc8906e3c508e1af08488106b7e414763313" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Codility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Codility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Hackerrank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/online/Hackerrank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/online/Hackerrank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/online/Hackerrank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/kata/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ka-ta.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/kata/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/ka-ta.kotlin_module" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,22 +59,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1QaFzjwouFGKYxa3lMvwdDieBrl" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565597267199" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-logic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,39 +96,68 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.test.kata" />
       <recent name="com.test.kata.codewars" />
       <recent name="com.test.kata.learn" />
-      <recent name="com.test.kata" />
       <recent name="com" />
       <recent name="com.test.kata.krisna" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.test.kata.common" />
       <recent name="com.test.kata.codewars" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.PossibleSwapTest">
-    <configuration name="LongestPathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
+  <component name="RunManager" selected="JUnit.AddTwoNumbersTest.testOne">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.App" />
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.test.*" />
+          <option name="PATTERN" value="com.test.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.LongestPathTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.leetcode.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonSerializationGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.kata.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.kata.common" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.common.NonSerializationGeneratorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,54 +178,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PossibleSwapTest.givenTestThree_whenPossibleSwap_shouldReturnCorrectResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.kata.test.*" />
+          <option name="PATTERN" value="com.test.kata.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.PossibleSwapTest" />
-      <option name="METHOD_NAME" value="givenTestThree_whenPossibleSwap_shouldReturnCorrectResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReversedSentenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.ReversedSentenceTest" />
+      <option name="PACKAGE_NAME" value="com.test.kata.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.test.kata.leetcode.TwoSumTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedSentenceTest.givenTestOne_whenReversed_shouldReturnCorrectResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ka-ta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.kata.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.kata.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.kata.test.ReversedSentenceTest" />
-      <option name="METHOD_NAME" value="givenTestOne_whenReversed_shouldReturnCorrectResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="hackerrank-musang" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -197,7 +206,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="hackerrank-musang" />
       <option name="filePath" />
       <option name="vmParameters" />
@@ -233,14 +242,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AddTwoNumbersTest.testOne" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.TwoSumTest" />
+        <item itemvalue="JUnit.NonSerializationGeneratorTest" />
         <item itemvalue="JUnit.PossibleSwapTest" />
-        <item itemvalue="JUnit.PossibleSwapTest.givenTestThree_whenPossibleSwap_shouldReturnCorrectResult" />
-        <item itemvalue="JUnit.LongestPathTest" />
-        <item itemvalue="JUnit.ReversedSentenceTest" />
-        <item itemvalue="JUnit.ReversedSentenceTest.givenTestOne_whenReversed_shouldReturnCorrectResult" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -467,6 +477,24 @@
       <workItem from="1589171965156" duration="3210000" />
       <workItem from="1589617698100" duration="640000" />
       <workItem from="1589688211222" duration="7367000" />
+      <workItem from="1598237375551" duration="3000" />
+      <workItem from="1598237387214" duration="144000" />
+      <workItem from="1598237538278" duration="8003000" />
+      <workItem from="1598281671476" duration="464000" />
+      <workItem from="1598282148309" duration="78000" />
+      <workItem from="1598329823203" duration="870000" />
+      <workItem from="1598418751914" duration="797000" />
+      <workItem from="1598507520632" duration="7557000" />
+      <workItem from="1598699632107" duration="4450000" />
+      <workItem from="1598713272172" duration="158000" />
+      <workItem from="1598716456370" duration="3099000" />
+      <workItem from="1598754760313" duration="1356000" />
+      <workItem from="1599035706681" duration="4701000" />
+      <workItem from="1599295228204" duration="7855000" />
+      <workItem from="1599358056147" duration="792000" />
+      <workItem from="1599482128725" duration="653000" />
+      <workItem from="1599647784071" duration="4141000" />
+      <workItem from="1599978005991" duration="3219000" />
     </task>
     <servers />
   </component>
@@ -480,20 +508,127 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="22" width="1024" height="842" key="#Project_Structure" timestamp="1598237522864">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="254" y="22" width="1024" height="842" key="#Project_Structure/0.27.1536.837@0.27.1536.837" timestamp="1598237522864" />
+    <state x="100" y="63" width="1720" height="917" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599301257453">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="63" width="1720" height="917" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599301257453" />
+    <state x="579" y="153" width="374" height="597" key="#com.intellij.ide.util.MemberChooser" timestamp="1598418811560">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="579" y="153" width="374" height="597" key="#com.intellij.ide.util.MemberChooser/0.27.1536.837@0.27.1536.837" timestamp="1598418811560" />
+    <state x="667" y="401" width="585" height="327" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599053921287">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="667" y="401" width="585" height="327" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.33.1920.1047@0.33.1920.1047" timestamp="1599053921287" />
+    <state x="627" y="212" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599054082835">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="627" y="212" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.33.1920.1047@0.33.1920.1047" timestamp="1599054082835" />
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1599981540578">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="204" key="GridCell.Tab.0.bottom/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="320" key="GridCell.Tab.0.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1599981540578">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="204" key="GridCell.Tab.0.center/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="320" key="GridCell.Tab.0.center/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1599981540577">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="204" key="GridCell.Tab.0.left/0.27.1536.837@0.27.1536.837" timestamp="1598722848236" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540577" />
+    <state width="1864" height="320" key="GridCell.Tab.0.left/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1599981540578">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="204" key="GridCell.Tab.0.right/0.27.1536.837@0.27.1536.837" timestamp="1598722848237" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599981540578" />
+    <state width="1864" height="320" key="GridCell.Tab.0.right/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1599981144172">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="253" key="GridCell.Tab.1.bottom/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144172" />
+    <state width="1864" height="320" key="GridCell.Tab.1.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219375" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1599981144167">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="253" key="GridCell.Tab.1.center/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144167" />
+    <state width="1864" height="320" key="GridCell.Tab.1.center/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1599981144166">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="253" key="GridCell.Tab.1.left/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144166" />
+    <state width="1864" height="320" key="GridCell.Tab.1.left/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219374" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1599981144171">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1490" height="253" key="GridCell.Tab.1.right/0.27.1536.837@0.27.1536.837" timestamp="1598540199467" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1599981144171" />
+    <state width="1864" height="320" key="GridCell.Tab.1.right/0.33.1920.1047@0.33.1920.1047" timestamp="1599059219375" />
+    <state x="260" y="66" width="1016" height="742" key="SettingsEditor" timestamp="1598237588659">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="260" y="66" width="1016" height="742" key="SettingsEditor/0.27.1536.837@0.27.1536.837" timestamp="1598237588659" />
+    <state x="621" y="208" width="784" height="660" key="StructurePopup" timestamp="1599295248700">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="497" y="171" width="627" height="524" key="StructurePopup/0.27.1536.837@0.27.1536.837" timestamp="1598510252011" />
+    <state x="621" y="208" width="784" height="660" key="StructurePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1599295248700" />
+    <state x="529" y="66" width="473" height="707" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598240203512">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="529" y="66" width="473" height="707" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1536.837@0.27.1536.837" timestamp="1598240203512" />
+    <state x="630" y="169" width="524" height="499" key="extract.method.dialog" timestamp="1599298201588">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="504" y="140" width="524" height="499" key="extract.method.dialog/0.27.1536.837@0.27.1536.837" timestamp="1598720845563" />
+    <state x="630" y="169" key="extract.method.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599298201588" />
+    <state x="580" y="236" width="759" height="634" key="find.popup" timestamp="1599656169564">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="580" y="236" width="759" height="634" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1599656169564" />
+    <state x="364" y="141" width="1160" height="837" key="new project wizard" timestamp="1599358248215">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="364" y="141" width="1160" height="837" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1599358248215" />
+    <state x="630" y="239" width="650" height="572" key="refactoring.ChangeSignatureDialog" timestamp="1599299777060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="630" y="239" width="650" height="572" key="refactoring.ChangeSignatureDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1599299777060" />
+    <state x="432" y="195" key="run.anything.popup" timestamp="1598712517219">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="432" y="195" key="run.anything.popup/0.27.1536.837@0.27.1536.837" timestamp="1598712517219" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1598241185745">
+      <screen x="0" y="27" width="1536" height="837" />
+    </state>
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.27.1536.837@0.27.1536.837" timestamp="1598241185745" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hackerrank$DigPowTest_Test1.ic" NAME="DigPowTest.Test1 Coverage Results" MODIFIED="1572838106169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
